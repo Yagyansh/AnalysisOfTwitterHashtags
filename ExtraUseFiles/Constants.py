@@ -45,12 +45,14 @@ TOPIC_COLLECTION_PREFIX = 'topic_'
 #File Names
 DATA_FILE_PREFIX = 'data'
 
+
 # Directories
 DATA_DIR = 'ScrapedData'
 TEMP_DIR = 'Temporary'
 EXTRACTOR_DIR = 'DataScraper'
 PROCESSOR_DIR = 'DataProcessor'
 WORKING_DIR = 'PrimaryWorker'
+MAPREDUCE_DIR = 'MapReduce'
 
 # File Extensions
 JSON = '.json'
