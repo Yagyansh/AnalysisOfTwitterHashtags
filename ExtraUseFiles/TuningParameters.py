@@ -20,7 +20,6 @@ HOURS = 60*MINUTES
 # Preprocessor
 PROCESSOR_SLEEP_TIME = 10*MINUTES
 
-
 # Tweets Extractor
 MAX_TWEETS_IN_FILE = 10000
 DISPLAY_COMPLETED_TWEETS_INTERVAL = 1000
@@ -28,6 +27,13 @@ DISPLAY_COMPLETED_TWEETS_INTERVAL = 1000
 FILE_NUMBER_RESET_VALUE = 1000
 FILE_NAME_SUFFIX_DIGITS = len(str(FILE_NUMBER_RESET_VALUE - 1))  # number of digits in the suffix
 FILE_NAME_FORMATTER = '%0' + str(FILE_NAME_SUFFIX_DIGITS) + 'd'
+
+# LDA Params
+NUMBER_OF_TOP_ENTITIES = 50
+TWEET_POOLING_SIZE = 100  # tweets
+NUMBER_OF_TOPICS = 18
+NUMBER_OF_PASSES = 20
+ALPHA = 0.001
 
 # The top 20 most used keywords from the following URL:
 # http://techland.time.com/2009/06/08/the-500-most-frequently-used-words-on-twitter/

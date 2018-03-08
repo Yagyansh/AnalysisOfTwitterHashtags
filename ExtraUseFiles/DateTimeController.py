@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from time import time
 
 
@@ -39,3 +39,8 @@ def get_date_string(date_obj):
 
 def get_today():
     return datetime.today()
+
+def get_prev_day(current_day):
+    diff = timedelta(days=1)
+    current_day -= diff
+    return current_day

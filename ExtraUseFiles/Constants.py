@@ -55,8 +55,17 @@ PROCESSOR_DIR = 'DataProcessor'
 WORKING_DIR = 'PrimaryWorker'
 MAPREDUCE_DIR = 'MapReduce'
 
+# LDA Files
+DICTIONARY_PREFIX = 'dictionary_'
+CORPUS_PREFIX = 'corpus_'
+LDA_MODEL_PREFIX = 'model_'
+
+
 # File Extensions
 JSON = '.json'
+MM = '.mm'
+DICT = '.dict'
+LDA = '.lda'
 
 # File Constants
 UTF8 = 'utf-8'
