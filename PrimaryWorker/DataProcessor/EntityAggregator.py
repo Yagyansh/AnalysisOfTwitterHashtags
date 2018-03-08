@@ -36,7 +36,7 @@ temp_raw = db[TEMP_RAW_COLLECTION_NAME]
 temp_results = db[TEMP_RESULTS_COLLECTION_NAME]
 
 
-def execute():
+def Execute():
     print 'Started Entity Aggregation... ',
 
     start_timing()
@@ -62,4 +62,4 @@ def execute():
 
 
 if __name__ == '__main__':
-    execute()
+    Execute()

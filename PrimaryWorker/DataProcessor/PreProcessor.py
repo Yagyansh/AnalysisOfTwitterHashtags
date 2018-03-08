@@ -37,7 +37,7 @@ def is_retweet(tweet):
     return RETWEETED_STATUS in tweet.keys()
 
 
-def extract_data(file_path):  # load json file into a list of dictionaries
+def extract_data(file_path):  # Load json file into a list of dictionaries
     tweets = []
     tweets_file = open(file_path, 'r')
     for line in tweets_file:
@@ -110,7 +110,7 @@ def execute():
     start_timing()
 
     count = 0
-    percent_interval = 1  # increment for the completion percent display
+    percent_interval = 1  # Increment for the completion percent display
     display_percentage(count, l, percent_interval)
 
     for data_file in data_files:
@@ -121,7 +121,7 @@ def execute():
         insert_many(collection, processed_tweets)
         remove(data_file_path)
 
-        # updating completion status
+        # Updating completion status
         count += 1
         display_percentage(count, l, percent_interval)
 

@@ -44,7 +44,8 @@ TOPIC_COLLECTION_PREFIX = 'topic_'
 
 #File Names
 DATA_FILE_PREFIX = 'data'
-
+PREPROCESSOR = 'PreProcessor.py'
+ENTITYAGGREGATOR = 'EntityAggregator.py'
 
 # Directories
 DATA_DIR = 'ScrapedData'
