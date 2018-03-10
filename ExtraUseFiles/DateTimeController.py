@@ -44,3 +44,8 @@ def get_prev_day(current_day):
     diff = timedelta(days=1)
     current_day -= diff
     return current_day
+
+def get_differenced_day(current_day, days_delta):
+    diff = timedelta(days=days_delta)
+    differenced_day = current_day + diff
+    return differenced_day

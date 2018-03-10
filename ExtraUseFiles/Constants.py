@@ -42,10 +42,15 @@ TEMP_RESULTS_COLLECTION_NAME = 'result_temp'
 URL_RESULTS_COLLECTION_PREFIX = 'url_result_'
 TOPIC_COLLECTION_PREFIX = 'topic_'
 
+def TOPIC_COLLECTION_NAME(topic_id):
+    return TOPIC_COLLECTION_PREFIX + str(topic_id)
+
+
 #File Names
 DATA_FILE_PREFIX = 'data'
 PREPROCESSOR = 'PreProcessor.py'
 ENTITYAGGREGATOR = 'EntityAggregator.py'
+TOPIC_FILE_PREFIX = 'Topic'
 
 # Directories
 DATA_DIR = 'ScrapedData'
@@ -54,6 +59,8 @@ EXTRACTOR_DIR = 'DataScraper'
 PROCESSOR_DIR = 'DataProcessor'
 WORKING_DIR = 'PrimaryWorker'
 MAPREDUCE_DIR = 'MapReduce'
+MODEL_DATA_DIR = 'Model_Data'
+TOPIC_MODELLER_DIR = 'Topic_Modeller'
 
 # LDA Files
 DICTIONARY_PREFIX = 'dictionary_'
@@ -66,6 +73,7 @@ JSON = '.json'
 MM = '.mm'
 DICT = '.dict'
 LDA = '.lda'
+TXT = '.txt'
 
 # File Constants
 UTF8 = 'utf-8'
