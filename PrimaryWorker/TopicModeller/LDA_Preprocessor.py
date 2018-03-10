@@ -1,7 +1,7 @@
 """
 Preprocess the tweets for LDA:
- Perform cleaning
- Create and save Dictionary and Corpus
+ 1.Performs Cleaning
+ 2.Create and save Dictionary and Corpus
 """
 
 from os.path import join
