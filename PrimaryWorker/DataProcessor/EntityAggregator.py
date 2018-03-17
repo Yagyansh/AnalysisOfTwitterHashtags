@@ -37,7 +37,7 @@ temp_results = db[TEMP_RESULTS_COLLECTION_NAME]
 
 
 def Execute():
-    print 'Started Entity Aggregation... ',
+    print 'Started Entity Aggregation... \n',
 
     start_timing()
 

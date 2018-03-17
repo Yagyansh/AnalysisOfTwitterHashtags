@@ -2,7 +2,7 @@
 """
  To clean the extracted tweets from Temporary folder.
  It saves the timestamp, username, entities, retweet_details, urls, coordinates, place, id.
- These are then dumped into a temp_raw collection.
+ These are then dumped into a temp_raw collection of raw_tweets Database.
 """
 
 from os.path import join
@@ -81,7 +81,7 @@ def process(tweets):  # extract relevant information from tweets
     for tweet in tweets:
         try:
             if is_retweet(tweet):
-                tweet = tweet[RETWEETED_STATUS]  # TODO see if this is needed
+                tweet = tweet[RETWEETED_STATUS]
             processed_tweet = {ENTITIES: get_hash_and_mentions(tweet[ENTITIES])}
             if len(processed_tweet[ENTITIES]) == 0:  # checking if tweet has hashtags or user mentions
                 continue  # TODO is this necessary?

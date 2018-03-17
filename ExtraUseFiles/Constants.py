@@ -59,7 +59,8 @@ EXTRACTOR_DIR = 'DataScraper'
 PROCESSOR_DIR = 'DataProcessor'
 WORKING_DIR = 'PrimaryWorker'
 MAPREDUCE_DIR = 'MapReduce'
-MODEL_DATA_DIR = 'Model_Data'
+DICT_CORPUS_MODEL_DIR = 'DictionaryANDCorpusANDModel'
+TOPICS_DATA_DIR = 'ResultingTopics'
 TOPIC_MODELLER_DIR = 'Topic_Modeller'
 
 # LDA Files

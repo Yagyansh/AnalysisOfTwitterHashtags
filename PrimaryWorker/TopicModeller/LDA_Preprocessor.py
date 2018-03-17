@@ -13,7 +13,7 @@ from ExtraUseFiles.Cleaner import clean
 from ExtraUseFiles.TuningParameters import NUMBER_OF_TOP_ENTITIES, TWEET_POOLING_SIZE
 from ExtraUseFiles.Constants import *
 from ExtraUseFiles.OS_Utility import get_dir
-from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing
+from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing , get_time
 
 
 TODAY = get_today()
@@ -22,8 +22,8 @@ COLLECTION_DAY = TODAY
 COLLECTION_DAY_STRING = get_date_string(COLLECTION_DAY)
 
 ROOT = get_dir(__file__)
-DICTIONARY_PATH = join(ROOT, DATA_DIR, DICTIONARY_PREFIX + TODAY_STRING + DICT)
-CORPUS_PATH = join(ROOT, DATA_DIR, CORPUS_PREFIX + TODAY_STRING + MM)
+DICTIONARY_PATH = join(ROOT, DICT_CORPUS_MODEL_DIR, DICTIONARY_PREFIX + TODAY_STRING + DICT)
+CORPUS_PATH = join(ROOT, DICT_CORPUS_MODEL_DIR, CORPUS_PREFIX + TODAY_STRING + MM)
 
 COLLECTION_NAME = RAW_COLLECTION_PREFIX + COLLECTION_DAY_STRING
 RESULTS_COLLECTION_NAME = ENTITY_RESULTS_COLLECTION_PREFIX + COLLECTION_DAY_STRING
@@ -59,7 +59,8 @@ def get_documents():
 
 def execute():
     start_timing()
-    print 'Starting Pre-processing for LDA...',
+    print 'Starting Pre-processing for LDA at ' + get_time() + '... ',
+    start_timing()
 
     documents = get_documents()
     tokenized_documents = clean(documents)
@@ -71,7 +72,7 @@ def execute():
     corpus = [dictionary.doc2bow(doc) for doc in tokenized_documents]
     corpora.MmCorpus.serialize(CORPUS_PATH, corpus)
 
-    print 'Finished'
+    print '\nFinished at  ' + get_time()
     stop_timing()
 
     client.close()

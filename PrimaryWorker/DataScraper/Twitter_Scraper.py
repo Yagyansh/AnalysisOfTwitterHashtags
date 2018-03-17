@@ -47,7 +47,7 @@ class StdOutListener(StreamListener):
 
     def on_data(self, data):
 
-        if not is_json(data):  # checking for invalid tweet
+        if not is_json(data):  # Checking for invalid tweet
             return True
         global tweet_count, file_number, tweets_file, file_name, display_number, total_tweet_count
 

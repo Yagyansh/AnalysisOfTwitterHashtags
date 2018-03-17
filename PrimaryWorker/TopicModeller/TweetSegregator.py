@@ -27,10 +27,10 @@ COLLECTION_DAY = TODAY
 COLLECTION_DAY_STRING = get_date_string(COLLECTION_DAY)
 
 ROOT = get_dir(__file__)
-DICTIONARY_PATH = join(ROOT, DATA_DIR, DICTIONARY_PREFIX + TODAY_STRING + DICT)
-CORPUS_PATH = join(ROOT, DATA_DIR, CORPUS_PREFIX + TODAY_STRING + MM)
-LDA_PATH = join(ROOT, DATA_DIR, LDA_MODEL_PREFIX + TODAY_STRING + LDA)
-MODEL_DATA_PATH = join(ROOT, MODEL_DATA_DIR)
+DICTIONARY_PATH = join(ROOT, DICT_CORPUS_MODEL_DIR, DICTIONARY_PREFIX + TODAY_STRING + DICT)
+CORPUS_PATH = join(ROOT, DICT_CORPUS_MODEL_DIR, CORPUS_PREFIX + TODAY_STRING + MM)
+LDA_PATH = join(ROOT, DICT_CORPUS_MODEL_DIR, LDA_MODEL_PREFIX + TODAY_STRING + LDA)
+MODEL_DATA_PATH = join(ROOT, TOPICS_DATA_DIR)
 
 CORPUS = corpora.MmCorpus(CORPUS_PATH)
 DICTIONARY = corpora.Dictionary.load(DICTIONARY_PATH)
@@ -55,7 +55,7 @@ writers = []
 
 def init_writer(tid):
     filename = TOPIC_FILE_PREFIX + str(tid) + TXT
-    file_path = join(MODEL_DATA_DIR, filename)
+    file_path = join(TOPICS_DATA_DIR, filename)
 
     x = io.open(file_path, WRITE, encoding=UTF8)
     return x
@@ -128,7 +128,7 @@ def save_model_data():
 
 
 def execute():
-    print 'Started at ' + get_time() + '... ',
+    print 'Started Segregation at ' + get_time() + '... ',
     start_timing()
 
     client.drop_database(TOPIC_TWEETS_DB_NAME)
@@ -160,7 +160,7 @@ def execute():
     save_to_collection()
     save_model_data()
 
-    print 'Finished'
+    print '\nFinished at ' +get_time()
     stop_timing()
 
 
