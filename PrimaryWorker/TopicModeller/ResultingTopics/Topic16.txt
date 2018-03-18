@@ -1,0 +1,32 @@
+Top 20 Word - Probability:
+fanboost-0.07601965
+felixrosenqvist-0.07434401
+getting-0.07288031
+close-0.07285183
+passioneer-0.07266695
+race-0.0722937
+kca-0.06540077
+vote-0.026511852
+favglobalmusicbts-0.010917654
+favmusicalgrouptwentyonepilots-0.008835652
+three-0.008393864
+favbreakoutartistharrystyles-0.0076070107
+tweet-0.0069740717
+thre-0.0061581605
+thr-0.005599319
+bts-0.005071341
+voting-0.004632146
+per-0.0042867586
+favpinoynewbiejoshua-0.0039152103
+retweet-0.0037420655
+
+Top tweet:
+Remember its one tweet per account per day but unlimited retweets
+Dont forget to add # KCA
+#KCA #FavBreakoutArtistHarryStyles
+
+Entities:
+#FelixRosenqvist
+#FANBOOST
+#passioneer
+#KCA

@@ -27,7 +27,7 @@ DICTIONARY = corpora.Dictionary.load(DICTIONARY_PATH)
 
 def execute():
 
-    print 'Started LDA at ' + get_time() + '... ',
+    print 'Started LDA Model Creation at ' + get_time() + '... ',
 
     start_timing()
 
@@ -36,7 +36,7 @@ def execute():
 
     lda.save(LDA_PATH)
 
-    print 'Finished'
+    print 'Model Created Successfully'
     stop_timing()
 
 

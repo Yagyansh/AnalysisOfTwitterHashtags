@@ -18,7 +18,7 @@ def time_taken():
     minutes = int(minutes - hours * 60)
     seconds = int(seconds - minutes * 60 - hours * 60 * 60)
 
-    print 'Time to execute = ' + str(hours) + ':' + str(minutes) + ':' + str(seconds)
+    print 'Time taken to execute = ' + str(hours) + ':' + str(minutes) + ':' + str(seconds)
 
 
 def start_timing():

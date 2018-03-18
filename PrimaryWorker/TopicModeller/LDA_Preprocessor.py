@@ -58,7 +58,7 @@ def get_documents():
 
 
 def execute():
-    start_timing()
+
     print 'Starting Pre-processing for LDA at ' + get_time() + '... ',
     start_timing()
 
@@ -66,10 +66,13 @@ def execute():
     tokenized_documents = clean(documents)
 
     dictionary = corpora.Dictionary([doc for doc in tokenized_documents])
-    dictionary.compactify()
+    dictionary.compactify() #Assign new word ids to all words, shrinking gaps.
     dictionary.save(DICTIONARY_PATH)
 
+    #Convert document into the bag-of-words (BoW) format = list of (token_id, token_count).
     corpus = [dictionary.doc2bow(doc) for doc in tokenized_documents]
+
+    #Serialize corpus with offset metadata, allows to use direct indexes after loading.
     corpora.MmCorpus.serialize(CORPUS_PATH, corpus)
 
     print '\nFinished at  ' + get_time()

@@ -4,8 +4,6 @@ Each tweet has to be categorized into a topic.
 
 As each hashtag normally falls into one category, find percentage match to a topic and assign
 all tweets in the collection to the best matched topic.
-
-For user mentions, each tweet is independently categorized into a topic. TODO
 """
 import io
 from os.path import join

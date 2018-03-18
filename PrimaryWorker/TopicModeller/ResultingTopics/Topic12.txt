@@ -1,0 +1,29 @@
+Top 20 Word - Probability:
+found-0.0852917
+transponder-0.0847324
+snail-0.08473108
+trecru-0.0847283
+amazing-0.025657974
+giants-0.025651308
+sea-0.024536103
+monsters-0.02425909
+encounters-0.024258275
+look-0.012756216
+holiday-0.010769744
+inside-0.009768733
+shots-0.009490691
+exclusive-0.009319184
+hats-0.008091927
+straw-0.007817766
+concerned-0.0069825025
+celebrates-0.006575222
+candid-0.006424695
+luffy-0.006424547
+
+Top tweet:
+Found a Transponder Snail!
+Battle rages in Upper Yard! Shandians vs. "Kami"!
+https://t.co/DkcYiFsiMb #TreCru https://t.co/wfWeUyWmTH
+
+Entities:
+#TreCru

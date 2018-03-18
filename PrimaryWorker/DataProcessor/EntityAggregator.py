@@ -14,7 +14,7 @@ from ExtraUseFiles.Constants import *
 from ExtraUseFiles.Collection_Entity.Collection import Collection
 from ExtraUseFiles.MongoHandler import check_or_create_collection, copy_into_collection
 from ExtraUseFiles.OS_Utility import get_dir
-from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing
+from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing, get_time
 
 ROOT = get_dir(__file__)
 MAPREDUCE_PATH = join(ROOT, MAPREDUCE_DIR)
@@ -37,7 +37,7 @@ temp_results = db[TEMP_RESULTS_COLLECTION_NAME]
 
 
 def Execute():
-    print 'Started Entity Aggregation... \n',
+    print "Started Entity Aggregation at " + get_time() + "... \n",
 
     start_timing()
 

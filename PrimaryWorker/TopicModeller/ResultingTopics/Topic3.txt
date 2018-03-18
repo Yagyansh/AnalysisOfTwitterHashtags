@@ -1,0 +1,28 @@
+Top 20 Word - Probability:
+soundcloud-0.08019379
+listen-0.055366833
+heard-0.020378795
+prod-0.013605729
+tonkra-0.009091675
+feat-0.007957012
+love-0.005858734
+music-0.0057073105
+remix-0.005706737
+rock-0.005705966
+mix-0.0045774416
+pop-0.004577434
+mixed-0.00457739
+come-0.003675796
+playing-0.0035223926
+never-0.003455908
+matt-0.0034488665
+miles-0.0034486358
+mewone-0.003448543
+mastered-0.0034484866
+
+Top tweet:
+Listen to My Vision- Kyra Ilaya Sanders (PROD. BY NINO) by Kyra Ilaya Sanders #np on #SoundCloud
+https://t.co/XzGncjGEBl
+
+Entities:
+#np

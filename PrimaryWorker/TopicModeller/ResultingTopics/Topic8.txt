@@ -1,0 +1,28 @@
+Top 20 Word - Probability:
+win-0.076134205
+giveaway-0.06426219
+follow-0.029470595
+enter-0.029133603
+chance-0.015935626
+entered-0.010095931
+retweet-0.008980855
+competition-0.007901753
+time-0.006517858
+ends-0.0059595765
+freebiefriday-0.0058767567
+love-0.0051062535
+card-0.0049262526
+worth-0.0048224847
+simply-0.0047920025
+leave-0.0047424086
+prize-0.0047004633
+gaming-0.0044882814
+bts-0.004475557
+giftcard-0.0044716345
+
+Top tweet:
+#FreebieFriday #win a Wiser smart home heating kit worth over £130! For your chance to enter, simply RT &amp; follow… https://t.co/fW0wLwjtR2
+
+Entities:
+#win
+#giveaway

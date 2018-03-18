@@ -1,0 +1,29 @@
+Top 20 Word - Probability:
+code-0.031045306
+fortnite-0.020123467
+codes-0.016659198
+follow-0.015571845
+ios-0.012232604
+iphone-0.01119005
+please-0.010024259
+invite-0.010019677
+giveaway-0.0078358725
+away-0.007815944
+game-0.007807669
+play-0.0078076064
+send-0.0077812895
+give-0.006783786
+friend-0.006701504
+mobile-0.0067009637
+still-0.0057756067
+retweet-0.005604168
+giving-0.0056034676
+first-0.005595893
+
+Top tweet:
+@FortniteGame @postboxpat Im giving away #Fortnite iOS Invite Event codes to 3 lucky winners! 
+
+- Must Be Following… https://t.co/OXCXauSriN
+
+Entities:
+@FortniteGame

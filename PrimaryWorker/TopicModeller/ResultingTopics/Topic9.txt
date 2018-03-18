@@ -1,0 +1,29 @@
+Top 20 Word - Probability:
+stpatricksday-0.13178758
+happy-0.05448753
+irish-0.026131816
+green-0.019654276
+patrick-0.015116336
+poshmark-0.012366573
+celebrate-0.011479791
+everyone-0.010440752
+luck-0.010156206
+shopmycloset-0.009276706
+wishing-0.008503053
+check-0.007986783
+may-0.007947578
+share-0.0067454795
+happystpatricksday-0.006393053
+items-0.0063099856
+loving-0.006122749
+fashion-0.005894587
+added-0.005585168
+closet-0.0054451
+
+Top tweet:
+Happy #StPatricksDay! While my days of drinking green beer at 8am are behind me, have fun and please remember to be safe out there everyone.
+
+Entities:
+@Poshmarkapp
+#HappyStPatricksDay
+#StPatricksDay

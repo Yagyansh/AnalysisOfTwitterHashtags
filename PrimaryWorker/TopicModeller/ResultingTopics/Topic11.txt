@@ -1,0 +1,31 @@
+Top 20 Word - Probability:
+thosfansbts17m-0.024745574
+bts-0.010910084
+ifsocialmediadisappeared-0.009972481
+trump-0.009729907
+people-0.00854342
+mccabe-0.008500566
+army-0.0072076726
+president-0.006266803
+fbi-0.0058755926
+love-0.005721795
+keep-0.005574269
+man-0.005274001
+meet_jimin-0.005128434
+fired-0.0049312967
+jimin-0.0044504683
+vote-0.004352228
+corruption-0.0041906247
+back-0.0039581563
+still-0.0038208356
+time-0.0036256008
+
+Top tweet:
+The GOP might explode when Stormy Daniels tells the world about Trump's tiny penis on 60 Minutes. Tick tock. @realDonaldTrump
+
+Entities:
+@RepSwalwell
+@BTS_twt
+@realDonaldTrump
+#THOSFansBTS17M
+#IfSocialMediaDisappeared

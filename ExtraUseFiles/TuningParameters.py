@@ -39,4 +39,3 @@ ALPHA = 0.001
 # http://techland.time.com/2009/06/08/the-500-most-frequently-used-words-on-twitter/
 FILTER_KEYWORDS = ["a", "the", "i", "you", "to", "and", "is", "in", "u", "of", "it"]
 ENGLISH = 'en'
-

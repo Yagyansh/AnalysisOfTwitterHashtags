@@ -84,7 +84,7 @@ def process(tweets):  # extract relevant information from tweets
                 tweet = tweet[RETWEETED_STATUS]
             processed_tweet = {ENTITIES: get_hash_and_mentions(tweet[ENTITIES])}
             if len(processed_tweet[ENTITIES]) == 0:  # checking if tweet has hashtags or user mentions
-                continue  # TODO is this necessary?
+                continue
 
             processed_tweet[TIMESTAMP] = extract_time(tweet[CREATED_AT])
             processed_tweet[USERNAME] = tweet[USER][SCREEN_NAME]

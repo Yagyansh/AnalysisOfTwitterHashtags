@@ -1,0 +1,29 @@
+Top 20 Word - Probability:
+onedirectionbestfans-0.0678604
+isupportjeremycorbyn-0.05288677
+love-0.023638595
+voting-0.008267219
+deserve-0.0077986997
+vote-0.0070819748
+world-0.0064510596
+louisbestfans-0.0060682236
+many-0.00591201
+people-0.0052886955
+man-0.004951423
+louis-0.004890598
+support-0.004853185
+win-0.00476773
+time-0.0046615596
+right-0.0042840936
+tweet-0.0041698855
+hashtag-0.0041446653
+direction-0.004144431
+hope-0.004057993
+
+Top tweet:
+#ISupportJeremyCorbyn I support the Labour Party and since Corbyn became leader have seen many very committed peopl… https://t.co/rVvPeZImyV
+
+Entities:
+#OneDirectionBestFans
+@Louis_Tomlinson
+#ISupportJeremyCorbyn

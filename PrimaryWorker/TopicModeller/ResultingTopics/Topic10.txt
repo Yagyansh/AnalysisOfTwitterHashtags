@@ -1,0 +1,26 @@
+Top 20 Word - Probability:
+happystpatricksday-0.02370713
+video-0.017565388
+liked-0.009532008
+america-0.009344972
+star-0.008657492
+john-0.0074034333
+gen-0.00730094
+usa-0.0066844914
+thieve-0.006139335
+insulted-0.006139215
+nicholson-0.006139179
+thievery-0.006139143
+mccabe-0.0050393105
+playlist-0.004047095
+added-0.003662589
+trump-0.0036572402
+end-0.0034360124
+andrew-0.0028054893
+look-0.0027137573
+little-0.0025812557
+
+Top tweet:
+I liked a @YouTube video https://t.co/u7Pf4MUYSn Ballet class, 3 year olds, pre-school ballet, Baby Ballet https://t.co/DiO4ZV1Plw BALLET
+
+Entities:

@@ -1,0 +1,31 @@
+Top 20 Word - Probability:
+indiawants_avrecording_incourts-0.059494548
+aldublovewins-0.0569638
+proceedings-0.041951478
+court-0.017716544
+video-0.016875686
+audio-0.015602093
+recording-0.01106566
+love-0.011039312
+people-0.007836787
+life-0.007161754
+justice-0.0067361807
+india-0.006446595
+proceeding-0.0059816656
+time-0.005800488
+corruption-0.005773661
+courts-0.0057272916
+right-0.0057181255
+man-0.00461709
+must-0.0045261607
+every-0.0044186655
+
+Top tweet:
+#ALDUBLoveWins 💕🎉
+Every time I see your name come up on my phone, I smile and my heart starts to beat just a little faster.
+
+Entities:
+#ALDUBLoveWins
+@SatlokChannel
+@narendramodi
+#IndiaWants_AVRecording_InCourts

@@ -1,0 +1,26 @@
+Top 20 Word - Probability:
+love-0.016886793
+people-0.006039592
+listen-0.0060128164
+left-0.004570641
+feat-0.004526502
+tune-0.0045259288
+coast2coast-0.004525727
+tonight-0.004525143
+buy-0.003107319
+someone-0.0030938683
+time-0.0030739377
+work-0.003072661
+agree-0.0030544726
+help-0.0030457764
+nowplaying-0.0030457454
+moon-0.0030447314
+tearaways-0.0030445887
+favorite-0.0030440358
+massive-0.0030440332
+presidents-0.003043945
+
+Top tweet:
+@CNN Disgraced MEDIA HIT WITH MASSIVE LAYOFFS 2018  Far-left CNN is collapsing in ratings and dealing with massive… https://t.co/JnmUu1fIqT
+
+Entities:
