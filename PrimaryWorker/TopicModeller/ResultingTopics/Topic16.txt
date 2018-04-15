@@ -1,32 +1,30 @@
 Top 20 Word - Probability:
-fanboost-0.07601965
-felixrosenqvist-0.07434401
-getting-0.07288031
-close-0.07285183
-passioneer-0.07266695
-race-0.0722937
-kca-0.06540077
-vote-0.026511852
-favglobalmusicbts-0.010917654
-favmusicalgrouptwentyonepilots-0.008835652
-three-0.008393864
-favbreakoutartistharrystyles-0.0076070107
-tweet-0.0069740717
-thre-0.0061581605
-thr-0.005599319
-bts-0.005071341
-voting-0.004632146
-per-0.0042867586
-favpinoynewbiejoshua-0.0039152103
-retweet-0.0037420655
+happystpatricksday-0.07383969
+thosfansbts17m-0.015811676
+meet_bts-0.012249395
+meet_jimin-0.010033932
+marchmadness-0.008584528
+teen-0.0071806447
+act-0.0061316793
+bts-0.0059133377
+army-0.005597673
+everyone-0.004973684
+end-0.0049720085
+rainbow-0.004891084
+park-0.0046224897
+hour-0.0045009777
+line-0.0043562907
+teambts-0.0042518224
+relief-0.0041589458
+pain-0.0039872816
+first-0.003981606
+heart-0.0039001275
 
 Top tweet:
-Remember its one tweet per account per day but unlimited retweets
-Dont forget to add # KCA
-#KCA #FavBreakoutArtistHarryStyles
+Ayo Ladies and Gentleman 🙋
+
+Join the #Meet_BTS project and let's introduce @BTS_twt to new/non armys.
+Share your me… https://t.co/nDZ12aFBqf
 
 Entities:
-#FelixRosenqvist
-#FANBOOST
-#passioneer
-#KCA
+#HappyStPatricksDay

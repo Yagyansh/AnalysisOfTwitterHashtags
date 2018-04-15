@@ -1,26 +1,30 @@
 Top 20 Word - Probability:
-happystpatricksday-0.02370713
-video-0.017565388
-liked-0.009532008
-america-0.009344972
-star-0.008657492
-john-0.0074034333
-gen-0.00730094
-usa-0.0066844914
-thieve-0.006139335
-insulted-0.006139215
-nicholson-0.006139179
-thievery-0.006139143
-mccabe-0.0050393105
-playlist-0.004047095
-added-0.003662589
-trump-0.0036572402
-end-0.0034360124
-andrew-0.0028054893
-look-0.0027137573
-little-0.0025812557
+kca-0.110620245
+vote-0.036155306
+blockchain-0.03457298
+favmusicalgrouptwentyonepilots-0.016779564
+favbreakoutartistharrystyles-0.014727428
+favglobalmusicbts-0.012774469
+tweet-0.011726065
+favpinoynewbiejoshua-0.010281059
+airdrop-0.007887177
+bitcoin-0.007886874
+favpinoynewbieloisa-0.006860399
+harry-0.0067777135
+per-0.006261822
+love-0.0059808027
+ico-0.005834741
+cryptocurrency-0.005834592
+retweet-0.0056557534
+reply-0.005625367
+favmusicalgroupfifthharmony-0.0054920167
+voting-0.005472735
 
 Top tweet:
-I liked a @YouTube video https://t.co/u7Pf4MUYSn Ballet class, 3 year olds, pre-school ballet, Baby Ballet https://t.co/DiO4ZV1Plw BALLET
+Remember its one tweet per account per day but unlimited retweets
+Dont forget to add # KCA
+#KCA #FavBreakoutArtistHarryStyles
 
 Entities:
+#KCA
+#blockchain

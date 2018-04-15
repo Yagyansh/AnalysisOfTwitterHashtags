@@ -1,5 +1,5 @@
 """
-Iterates over all tweets in each of the 100 collections.
+Iterates over all tweets in each of the collections.
 Each tweet has to be categorized into a topic.
 
 As each hashtag normally falls into one category, find percentage match to a topic and assign

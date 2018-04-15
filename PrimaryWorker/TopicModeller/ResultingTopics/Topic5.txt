@@ -1,32 +1,30 @@
 Top 20 Word - Probability:
-trump-0.01821634
-mueller-0.011107488
-mccabe-0.011030487
-time-0.0077115027
-people-0.006643636
-think-0.006173062
-lawyer-0.0060784053
-love-0.0058018006
-dowd-0.0055202353
-president-0.005262447
-rosenstein-0.004682979
-please-0.004549998
-russia-0.004346859
-says-0.004188885
-right-0.0041454746
-never-0.0040690154
-well-0.0039243908
-probe-0.0038693233
-investigation-0.0038623356
-fired-0.003612895
+win-0.08600487
+giveaway-0.07597549
+enter-0.03431656
+follow-0.033162676
+chance-0.019127209
+entered-0.011426384
+retweet-0.01091788
+competition-0.009380647
+freebiefriday-0.0068225507
+code-0.0067907507
+ends-0.006578479
+prize-0.0055341567
+time-0.005390197
+worth-0.005282049
+giftcard-0.005189131
+gift-0.0051876185
+gaming-0.005181536
+simply-0.0050702207
+card-0.0050191586
+away-0.0048862766
 
 Top tweet:
-Omg small point but @woodruffbets says on @amjoyshow that trump’s attorney John Dowd uses purple comic sans font in all of his emails lol.
+#Win The Berenstain Bears and the Easter Story
+plus a $50 Shutterfly code to order family Easter photos with all th… https://t.co/VSBdtJsHoP
 
 Entities:
-@Camila_Cabello
-@woodruffbets
-@davidhogg111
-@FoxNews
-@MSNBC
-@CNN
+@FortniteGame
+#win
+#giveaway

@@ -1,29 +1,27 @@
 Top 20 Word - Probability:
-found-0.0852917
-transponder-0.0847324
-snail-0.08473108
-trecru-0.0847283
-amazing-0.025657974
-giants-0.025651308
-sea-0.024536103
-monsters-0.02425909
-encounters-0.024258275
-look-0.012756216
-holiday-0.010769744
-inside-0.009768733
-shots-0.009490691
-exclusive-0.009319184
-hats-0.008091927
-straw-0.007817766
-concerned-0.0069825025
-celebrates-0.006575222
-candid-0.006424695
-luffy-0.006424547
+stpatricksday-0.16901375
+happy-0.06836504
+irish-0.03314975
+green-0.024916138
+patrick-0.017630506
+celebrate-0.01444984
+luck-0.012250093
+everyone-0.0122396285
+wishing-0.0103834085
+may-0.009486507
+holiday-0.009198481
+ireland-0.0064721806
+safe-0.006141852
+celebrating-0.0061172014
+lucky-0.006045377
+fun-0.005899878
+parade-0.005793143
+world-0.005124768
+gold-0.004824526
+pot-0.0047877384
 
 Top tweet:
-Found a Transponder Snail!
-Battle rages in Upper Yard! Shandians vs. "Kami"!
-https://t.co/DkcYiFsiMb #TreCru https://t.co/wfWeUyWmTH
+Happy St. Patrick's Day Eve.  Tomorrow in Chicago, we dye the River Green. #StPatricksDay #ireland #chicago #news https://t.co/5uKznKIKuM
 
 Entities:
-#TreCru
+#StPatricksDay

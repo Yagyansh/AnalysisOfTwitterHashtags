@@ -1,35 +1,27 @@
 Top 20 Word - Probability:
-maga-0.023946946
-trump-0.013192444
-jbj-0.011925494
-mccabe-0.0102677755
-please-0.007114308
-love-0.0067274743
-america-0.0067061856
-give-0.0053648422
-news-0.0051002726
-american-0.004886628
-qanon-0.004739285
-well-0.004527443
-keep-0.0041755675
-right-0.0039388835
-joyful-0.0039245794
-time-0.0038733636
-end-0.0037860726
-never-0.0036097926
-joyfuls-0.003559779
-hope-0.00350098
+exo-0.10177252
+exol-0.022318106
+follow-0.0202959
+stan-0.011213323
+sehun-0.010827428
+sure-0.010043382
+mutuals-0.010009502
+retweets-0.010009241
+gain-0.009967762
+everyone-0.009947515
+thai-0.009700353
+back-0.009276593
+fancam-0.009019455
+elyxion-0.008922564
+exonogloborepórter-0.006863554
+project-0.0063855513
+baby-0.006372409
+kai-0.0062435
+kst-0.006055437
+junmyeon-0.0056387344
 
 Top tweet:
-Good Morning Friends🌹
-😇God bless You😇
-🇺🇸God bless the USA🇺🇸
-🇺🇸God bless @POTUS🇺🇸
-🇺🇸God bless @VP🇺🇸
-🇺🇸God bless… https://t.co/BHgvs954rD
+rt to gain kim junmyeon stan mutuals, follow everyone that retweets and make sure to follow back ✨ 
+#엑소 #EXO @weareoneEXO
 
 Entities:
-#MAGA
-@JohnBrennan
-@POTUS
-#지지않는_꽃이야_787

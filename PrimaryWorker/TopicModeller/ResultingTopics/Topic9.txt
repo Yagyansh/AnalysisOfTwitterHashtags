@@ -1,29 +1,37 @@
 Top 20 Word - Probability:
-stpatricksday-0.13178758
-happy-0.05448753
-irish-0.026131816
-green-0.019654276
-patrick-0.015116336
-poshmark-0.012366573
-celebrate-0.011479791
-everyone-0.010440752
-luck-0.010156206
-shopmycloset-0.009276706
-wishing-0.008503053
-check-0.007986783
-may-0.007947578
-share-0.0067454795
-happystpatricksday-0.006393053
-items-0.0063099856
-loving-0.006122749
-fashion-0.005894587
-added-0.005585168
-closet-0.0054451
+trump-0.014472589
+nowplaying-0.013903006
+mccabe-0.011475993
+people-0.007816558
+president-0.0058595818
+ifsocialmediadisappeared-0.0056073777
+america-0.005264789
+fired-0.005053212
+fbi-0.004915646
+mueller-0.004851624
+time-0.00472899
+man-0.004084256
+think-0.004009227
+john-0.003525165
+corruption-0.0034675654
+american-0.00344043
+please-0.0031051778
+coming-0.0030940953
+love-0.003044695
+keep-0.0030314298
 
 Top tweet:
-Happy #StPatricksDay! While my days of drinking green beer at 8am are behind me, have fun and please remember to be safe out there everyone.
+Petty &amp; paranoid @realdonaldTrump fires Andy McCabe in sadistic mob style hit after 22 year law enforcement career… https://t.co/UbJbn7zlEl
 
 Entities:
-@Poshmarkapp
-#HappyStPatricksDay
-#StPatricksDay
+@JohnBrennan
+@woodruffbets
+@davidhogg111
+@RepSwalwell
+#NowPlaying
+@POTUS
+@FoxNews
+@realDonaldTrump
+@MSNBC
+#IfSocialMediaDisappeared
+@CNN

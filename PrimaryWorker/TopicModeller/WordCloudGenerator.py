@@ -70,7 +70,7 @@ def execute():
     print 'Started Word Cloud Generation at ' + get_time() + '...\n',
     start_timing()
 
-    hot_topics = [4,5,7, 8, 17]
+    hot_topics = [1,2,3,4,5,6,7, 8,9,10,11,12,13,14,15,16, 17]
     for topic in hot_topics:
         create_wordcloud(topic)
     print 'Word Cloud Successfully Created'

@@ -1,26 +1,30 @@
 Top 20 Word - Probability:
-love-0.016886793
-people-0.006039592
-listen-0.0060128164
-left-0.004570641
-feat-0.004526502
-tune-0.0045259288
-coast2coast-0.004525727
-tonight-0.004525143
-buy-0.003107319
-someone-0.0030938683
-time-0.0030739377
-work-0.003072661
-agree-0.0030544726
-help-0.0030457764
-nowplaying-0.0030457454
-moon-0.0030447314
-tearaways-0.0030445887
-favorite-0.0030440358
-massive-0.0030440332
-presidents-0.003043945
+aldublovewins-0.10461437
+love-0.021866705
+jbj-0.0144326575
+life-0.010542791
+give-0.008437807
+never-0.006803512
+heart-0.006138026
+time-0.0059867385
+smile-0.005887933
+happy-0.0058833184
+joyful-0.004602396
+people-0.0045614555
+please-0.0044298624
+dream-0.004318307
+joyfuls-0.004294107
+end-0.004024049
+world-0.0038218738
+aldub-0.0037487738
+better-0.003688369
+back-0.0036221603
 
 Top tweet:
-@CNN Disgraced MEDIA HIT WITH MASSIVE LAYOFFS 2018  Far-left CNN is collapsing in ratings and dealing with massive… https://t.co/JnmUu1fIqT
+#ALDUBLoveWins 💕🎉
+Every time I see your name come up on my phone, I smile and my heart starts to beat just a little faster.
 
 Entities:
+#ALDUBLoveWins
+@narendramodi
+#지지않는_꽃이야_787

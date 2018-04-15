@@ -25,6 +25,7 @@ CORPUS = corpora.MmCorpus(CORPUS_PATH)
 DICTIONARY = corpora.Dictionary.load(DICTIONARY_PATH)
 
 
+
 def execute():
 
     print 'Started LDA Model Creation at ' + get_time() + '... ',
@@ -35,6 +36,7 @@ def execute():
                           alpha=ALPHA)
 
     lda.save(LDA_PATH)
+
 
     print 'Model Created Successfully'
     stop_timing()

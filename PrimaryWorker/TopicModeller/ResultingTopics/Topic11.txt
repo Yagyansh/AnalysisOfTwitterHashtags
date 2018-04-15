@@ -1,31 +1,30 @@
 Top 20 Word - Probability:
-thosfansbts17m-0.024745574
-bts-0.010910084
-ifsocialmediadisappeared-0.009972481
-trump-0.009729907
-people-0.00854342
-mccabe-0.008500566
-army-0.0072076726
-president-0.006266803
-fbi-0.0058755926
-love-0.005721795
-keep-0.005574269
-man-0.005274001
-meet_jimin-0.005128434
-fired-0.0049312967
-jimin-0.0044504683
-vote-0.004352228
-corruption-0.0041906247
-back-0.0039581563
-still-0.0038208356
-time-0.0036256008
+indiawants_avrecording_incourts-0.12062628
+proceedings-0.085060626
+court-0.03603986
+video-0.03408848
+audio-0.03179702
+recording-0.022693459
+justice-0.012809126
+india-0.01263405
+proceeding-0.012127373
+courts-0.011096215
+corruption-0.011026512
+people-0.010161144
+judges-0.008776825
+judiciary-0.008518784
+system-0.008261267
+cases-0.0074882326
+judicial-0.007486999
+right-0.007387647
+judge-0.007230292
+recordings-0.006714844
 
 Top tweet:
-The GOP might explode when Stormy Daniels tells the world about Trump's tiny penis on 60 Minutes. Tick tock. @realDonaldTrump
+#IndiaWants_AVRecording_InCourts
+
+Salman Khan was sentenced to five years in  lower court in hit and run case, but… https://t.co/HmXpPRP280
 
 Entities:
-@RepSwalwell
-@BTS_twt
-@realDonaldTrump
-#THOSFansBTS17M
-#IfSocialMediaDisappeared
+@SatlokChannel
+#IndiaWants_AVRecording_InCourts

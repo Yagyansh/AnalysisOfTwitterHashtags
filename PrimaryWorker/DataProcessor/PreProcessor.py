@@ -106,7 +106,7 @@ def process(tweets):  # extract relevant information from tweets
 def execute():
     data_files = get_files_in_dir(TEMP_PATH, JSON)
     l = len(data_files)
-    print 'Started Preprocessing ' + str(l) + ' files... '
+    print 'Started Preprocessing of ' + str(l) + ' files... '
     start_timing()
 
     count = 0

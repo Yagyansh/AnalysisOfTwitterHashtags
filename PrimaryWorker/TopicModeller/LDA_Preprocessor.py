@@ -13,8 +13,7 @@ from ExtraUseFiles.Cleaner import clean
 from ExtraUseFiles.TuningParameters import NUMBER_OF_TOP_ENTITIES, TWEET_POOLING_SIZE
 from ExtraUseFiles.Constants import *
 from ExtraUseFiles.OS_Utility import get_dir
-from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing , get_time
-
+from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing, get_time
 
 TODAY = get_today()
 TODAY_STRING = get_date_string(TODAY)
@@ -58,21 +57,24 @@ def get_documents():
 
 
 def execute():
-
     print 'Starting Pre-processing for LDA at ' + get_time() + '... ',
     start_timing()
 
     documents = get_documents()
+    print documents
     tokenized_documents = clean(documents)
+    print tokenized_documents
 
     dictionary = corpora.Dictionary([doc for doc in tokenized_documents])
-    dictionary.compactify() #Assign new word ids to all words, shrinking gaps.
+    #print dictionary
+    dictionary.compactify()  # Assign new word ids to all words, shrinking gaps.
+    print dictionary
     dictionary.save(DICTIONARY_PATH)
 
-    #Convert document into the bag-of-words (BoW) format = list of (token_id, token_count).
+    # Convert document into the bag-of-words (BoW) format = list of (token_id, token_count).
     corpus = [dictionary.doc2bow(doc) for doc in tokenized_documents]
 
-    #Serialize corpus with offset metadata, allows to use direct indexes after loading.
+    # Serialize corpus with offset metadata, allows to use direct indexes after loading.
     corpora.MmCorpus.serialize(CORPUS_PATH, corpus)
 
     print '\nFinished at  ' + get_time()

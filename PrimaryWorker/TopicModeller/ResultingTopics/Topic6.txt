@@ -1,30 +1,29 @@
 Top 20 Word - Probability:
-nowplaying-0.081462525
-marchmadness-0.044952855
-quote-0.032306433
-listenlive-0.011729077
-umbc-0.011459504
-twitter-0.010236698
-love-0.008610789
-night-0.007746595
-game-0.007266369
-radio-0.007060379
-listen-0.0064091794
-upset-0.0062630787
-seed-0.0058802976
-round-0.0058463546
-virginia-0.005553595
-win-0.005477785
-time-0.0052043684
-music-0.004983606
-beat-0.004697378
-bracket-0.0045720725
+found-0.094865724
+snail-0.094173744
+transponder-0.09417039
+trecru-0.09416999
+amazing-0.028835012
+giants-0.028200049
+monsters-0.026963105
+encounters-0.026962595
+sea-0.026960058
+look-0.013392591
+inside-0.01087837
+shots-0.010547906
+exclusive-0.010238663
+hats-0.009293952
+straw-0.008689646
+candid-0.007140732
+luffy-0.0071395957
+behind-0.0059028724
+kami-0.0055923224
+battle-0.0052827955
 
 Top tweet:
-MAKING HISTORY: University of Maryland, Baltimore County (UMBC) becomes the first 16-seed in #MarchMadness history… https://t.co/3VF8a4ROdw
+Found a Transponder Snail!
+Battle rages in Upper Yard! Shandians vs. "Kami"!
+https://t.co/DkcYiFsiMb #TreCru https://t.co/wfWeUyWmTH
 
 Entities:
-@UMBCAthletics
-#quote
-#NowPlaying
-#MarchMadness
+#TreCru

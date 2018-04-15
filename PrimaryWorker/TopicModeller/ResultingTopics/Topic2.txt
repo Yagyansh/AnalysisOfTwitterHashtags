@@ -1,32 +1,29 @@
 Top 20 Word - Probability:
-exo-0.15572064
-elyxioninbkk-0.0721703
-bangkok-0.044687387
-elyxion-0.028424615
-sehun-0.016645763
-eℓyxion-0.016467938
-preview-0.015923446
-chanyeol-0.014467763
-baekhyun-0.012505677
-fancam-0.012505669
-planet-0.011877015
-love-0.011701768
-exol-0.009596295
-kyungsoo-0.008071497
-xiumin-0.00763574
-thai-0.00734211
-kai-0.007272333
-jongin-0.0067627467
-please-0.0050038667
-omg-0.0049852305
+aids-0.0513886
+prevention-0.032124933
+awareness-0.030834824
+spreading-0.026989043
+helping-0.02013948
+fighting-0.01682313
+time-0.013545886
+volunteers-0.010296031
+stpatricksday-0.009872541
+saint-0.009301329
+guru-0.008583655
+people-0.008471436
+disease-0.0072999657
+hiv-0.0068720784
+conducts-0.0064436803
+also-0.006223069
+making-0.005414051
+relies-0.005160026
+spread-0.004744468
+happy-0.00434208
 
 Top tweet:
-rt to gain kim junmyeon stan mutuals, follow everyone that retweets and make sure to follow back ✨ 
-#엑소 #EXO @weareoneEXO
+The three main goals of this program #एड्सजागरूकता
+would be health promotion nd reduction of illness by educating o… https://t.co/vccoEtAyUS
 
 Entities:
-#ElyXioninBKKDay2
-#ElyXioninBKK
-#엑소
-@weareoneEXO
-#EXO
+#एड्सजागरूकता
+#SaintMSG_Initiative34

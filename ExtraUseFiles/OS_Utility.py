@@ -3,6 +3,7 @@ from os import listdir
 
 
 def get_dir(filename):
+    # type: (object) -> object
     return dirname(realpath(filename))
 
 

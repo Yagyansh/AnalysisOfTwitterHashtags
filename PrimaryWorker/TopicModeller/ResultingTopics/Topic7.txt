@@ -1,29 +1,29 @@
 Top 20 Word - Probability:
-onedirectionbestfans-0.0678604
-isupportjeremycorbyn-0.05288677
-love-0.023638595
-voting-0.008267219
-deserve-0.0077986997
-vote-0.0070819748
-world-0.0064510596
-louisbestfans-0.0060682236
-many-0.00591201
-people-0.0052886955
-man-0.004951423
-louis-0.004890598
-support-0.004853185
-win-0.00476773
-time-0.0046615596
-right-0.0042840936
-tweet-0.0041698855
-hashtag-0.0041446653
-direction-0.004144431
-hope-0.004057993
+job-0.10166681
+hiring-0.094590195
+careerarc-0.08152219
+latest-0.032936778
+work-0.028192073
+click-0.024947623
+jobs-0.024928296
+opening-0.024525063
+fit-0.023703847
+anyone-0.020423057
+recommend-0.020018125
+apply-0.017387936
+interested-0.0135813
+join-0.012623081
+team-0.012538678
+view-0.011595304
+might-0.010291429
+check-0.009313341
+looking-0.009308326
+details-0.007822029
 
 Top tweet:
-#ISupportJeremyCorbyn I support the Labour Party and since Corbyn became leader have seen many very committed peopl… https://t.co/rVvPeZImyV
+Join the Supplemental Health Care team! See our latest #job opening here: https://t.co/HpYj312VW6 #Nursing #Amarillo, TX #Hiring #CareerArc
 
 Entities:
-#OneDirectionBestFans
-@Louis_Tomlinson
-#ISupportJeremyCorbyn
+#Hiring
+#CareerArc
+#job

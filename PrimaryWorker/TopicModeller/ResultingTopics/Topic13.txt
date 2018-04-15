@@ -1,33 +1,31 @@
 Top 20 Word - Probability:
-job-0.09607771
-hiring-0.08888136
-careerarc-0.07660121
-latest-0.03140265
-work-0.026130013
-click-0.023428103
-jobs-0.023301901
-opening-0.023047894
-fit-0.022283794
-anyone-0.018971818
-recommend-0.018867673
-apply-0.016338121
-blockchain-0.012793925
-interested-0.012793465
-team-0.012217834
-join-0.012158919
-view-0.010895331
-might-0.009664411
-check-0.00906713
-looking-0.008867829
+fanboost-0.109075084
+felixrosenqvist-0.1066695
+passioneer-0.104266874
+getting-0.10414662
+race-0.103536986
+close-0.10346564
+poshmark-0.026743794
+shopmycloset-0.020063085
+check-0.013590388
+share-0.013113547
+items-0.013113498
+loving-0.013113208
+fashion-0.012311803
+three-0.012044711
+added-0.011781906
+closet-0.011775459
+style-0.009107478
+thre-0.008836079
+thr-0.008034331
+vote-0.005039971
 
 Top tweet:
-#Bitcoin #Satoshi #Earn_Money #cryptocurrency #blockchain #Airdrop
-New Airdrop #ETU 📢
-
-#ETU limited time candy acti… https://t.co/EE0KJtfnSM
+#Fanboost #JoseMariaLopez #VamosPechito 💪
+I'm voting for the #FANBOOST!  Vote for your favourite driver here: https://t.co/jVBqOksFxX
 
 Entities:
-#Hiring
-#CareerArc
-#job
-#blockchain
+#FelixRosenqvist
+#FANBOOST
+#passioneer
+@Poshmarkapp

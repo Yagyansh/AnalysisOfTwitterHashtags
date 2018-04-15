@@ -35,6 +35,10 @@ NUMBER_OF_TOPICS = 18
 NUMBER_OF_PASSES = 20
 ALPHA = 0.001
 
+# Graphing
+DAY_START = '16:25'
+APPROXIMATION_RANGE = timedelta(minutes=1) # Timedelta object represents a duration, the difference between two dates or times.
+
 # The top 20 most used keywords from the following URL:
 # http://techland.time.com/2009/06/08/the-500-most-frequently-used-words-on-twitter/
 FILTER_KEYWORDS = ["a", "the", "i", "you", "to", "and", "is", "in", "u", "of", "it"]

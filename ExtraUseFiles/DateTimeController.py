@@ -1,5 +1,7 @@
 from datetime import datetime, timedelta
 from time import time
+import pytz
+from ExtraUseFiles.TuningParameters import TIMEZONE
 
 
 def get_time():
@@ -49,3 +51,26 @@ def get_differenced_day(current_day, days_delta):
     diff = timedelta(days=days_delta)
     differenced_day = current_day + diff
     return differenced_day
+
+def get_datetime_from_string(obj, time_string):
+
+    set_time = datetime.strptime(time_string, '%H:%M')
+    new_obj = obj.replace(hour=set_time.hour, minute=set_time.minute, second=0)
+
+    return new_obj
+
+def get_next_day(current_day):
+    diff = timedelta(days=1)
+    current_day += diff
+    return current_day
+
+def get_date_time_string(datetime_obj):
+    return datetime_obj.strftime('%d-%m-%Y %H:%M')
+
+def convert_datetime_to_local(obj):
+    tz = pytz.timezone(TIMEZONE)
+    return obj.astimezone(tz)
+
+def localize_datetime(obj):
+    tz = pytz.timezone(TIMEZONE)
+    return tz.localize(obj)

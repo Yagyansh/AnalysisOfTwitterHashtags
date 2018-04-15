@@ -45,6 +45,9 @@ TOPIC_COLLECTION_PREFIX = 'topic_'
 def TOPIC_COLLECTION_NAME(topic_id):
     return TOPIC_COLLECTION_PREFIX + str(topic_id)
 
+# MongoDB Operators
+LESS_THAN = '$lt'
+GREATER_THAN_OR_EQUAL = '$gte'
 
 #File Names
 DATA_FILE_PREFIX = 'data'
@@ -62,6 +65,7 @@ MAPREDUCE_DIR = 'MapReduce'
 DICT_CORPUS_MODEL_DIR = 'DictionaryANDCorpusANDModel'
 TOPICS_DATA_DIR = 'ResultingTopics'
 TOPIC_MODELLER_DIR = 'Topic_Modeller'
+TSV_DIR = 'TopicTSVs'
 
 # LDA Files
 DICTIONARY_PREFIX = 'dictionary_'
@@ -75,6 +79,8 @@ MM = '.mm'
 DICT = '.dict'
 LDA = '.lda'
 TXT = '.txt'
+TSV = '.tsv'
+
 
 # File Constants
 UTF8 = 'utf-8'
