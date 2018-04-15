@@ -118,11 +118,11 @@ def hellinger(vec1, vec2, lda=None, bow=False, num_of_docs=None):
 # topicdist1 = bow_of_topics(topics[1][1][1])
 
 
-if __name__ == '__main__':
-    topicdist0 = bow_of_topics(topics[0][1][1])
-    topicdist6 = bow_of_topics(topics[0][10][1])
-    topicdist4 = bow_of_topics(topics[0][17][1])
-    print topics[0][10][1]
-    print topics[0][17][1]
-    similarity = hellinger(topicdist6,topicdist4,bow=True)
-    print similarity
+# if __name__ == '__main__':
+#     topicdist0 = bow_of_topics(topics[0][1][1])
+#     topicdist6 = bow_of_topics(topics[0][10][1])
+#     topicdist4 = bow_of_topics(topics[0][17][1])
+#     print topics[0][10][1]
+#     print topics[0][17][1]
+#     similarity = hellinger(topicdist6,topicdist4,bow=True)
+#     print similarity
