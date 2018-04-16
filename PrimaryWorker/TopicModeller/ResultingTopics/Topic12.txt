@@ -1,27 +1,29 @@
 Top 20 Word - Probability:
-stpatricksday-0.16901375
-happy-0.06836504
-irish-0.03314975
-green-0.024916138
-patrick-0.017630506
-celebrate-0.01444984
-luck-0.012250093
-everyone-0.0122396285
-wishing-0.0103834085
-may-0.009486507
-holiday-0.009198481
-ireland-0.0064721806
-safe-0.006141852
-celebrating-0.0061172014
-lucky-0.006045377
-fun-0.005899878
-parade-0.005793143
-world-0.005124768
-gold-0.004824526
-pot-0.0047877384
+job-0.14221792
+hiring-0.13626695
+careerarc-0.11490525
+latest-0.043977536
+work-0.04109954
+click-0.03774839
+jobs-0.037643004
+opening-0.034139547
+apply-0.025993492
+view-0.01682833
+details-0.012016876
+looking-0.011170397
+recommend-0.01037098
+check-0.009549034
+anyone-0.009053174
+manager-0.007849266
+sales-0.007296205
+labor-0.0069607375
+veterans-0.0059814635
+engineering-0.005694608
 
 Top tweet:
-Happy St. Patrick's Day Eve.  Tomorrow in Chicago, we dye the River Green. #StPatricksDay #ireland #chicago #news https://t.co/5uKznKIKuM
+We're #hiring! Click to apply: Content Marketing Manager - https://t.co/rnQQZLNMR7 #Consulting #Toronto, Ontario #Job #Jobs #CareerArc
 
 Entities:
-#StPatricksDay
+#Hiring
+#CareerArc
+#job

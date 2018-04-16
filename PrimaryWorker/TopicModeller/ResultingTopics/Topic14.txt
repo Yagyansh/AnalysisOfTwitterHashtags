@@ -1,27 +1,28 @@
 Top 20 Word - Probability:
-exo-0.10177252
-exol-0.022318106
-follow-0.0202959
-stan-0.011213323
-sehun-0.010827428
-sure-0.010043382
-mutuals-0.010009502
-retweets-0.010009241
-gain-0.009967762
-everyone-0.009947515
-thai-0.009700353
-back-0.009276593
-fancam-0.009019455
-elyxion-0.008922564
-exonogloborepórter-0.006863554
-project-0.0063855513
-baby-0.006372409
-kai-0.0062435
-kst-0.006055437
-junmyeon-0.0056387344
+exo-0.1624874
+bangkok-0.05524921
+elyxioninbkk-0.050924692
+preview-0.034616277
+eℓyxion-0.031417403
+elyxion-0.024554735
+planet-0.022691883
+chanyeol-0.015740862
+baekhyun-0.014292943
+sehun-0.013470917
+love-0.010686872
+xiumin-0.008659534
+chen-0.008529122
+jongin-0.008512883
+suho-0.00782934
+oxo_th-0.006879054
+kai-0.0066534146
+junmyeon-0.0065553123
+exol-0.0061591035
+hit-0.006017152
 
 Top tweet:
-rt to gain kim junmyeon stan mutuals, follow everyone that retweets and make sure to follow back ✨ 
-#엑소 #EXO @weareoneEXO
+Oh my god Minseok and Baekhyun wearing those ladies hats hahahaha they are so extra 😂😂😂😂
+
+#EXO #XIUMIN #EXO… https://t.co/n6QWICfYN1
 
 Entities:

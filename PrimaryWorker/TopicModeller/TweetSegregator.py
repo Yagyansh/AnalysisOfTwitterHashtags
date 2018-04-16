@@ -129,7 +129,7 @@ def execute():
     print 'Started Segregation at ' + get_time() + '... ',
     start_timing()
 
-    client.drop_database(TOPIC_TWEETS_DB_NAME)
+    # client.drop_database(TOPIC_TWEETS_DB_NAME)
     results = entity_results_coll.find(limit=NUMBER_OF_TOP_ENTITIES, no_cursor_timeout=True) \
         .sort([(VALUE + '.' + COUNT, DESCENDING)])
 

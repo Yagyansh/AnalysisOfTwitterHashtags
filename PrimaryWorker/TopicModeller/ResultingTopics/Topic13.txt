@@ -1,31 +1,27 @@
 Top 20 Word - Probability:
-fanboost-0.109075084
-felixrosenqvist-0.1066695
-passioneer-0.104266874
-getting-0.10414662
-race-0.103536986
-close-0.10346564
-poshmark-0.026743794
-shopmycloset-0.020063085
-check-0.013590388
-share-0.013113547
-items-0.013113498
-loving-0.013113208
-fashion-0.012311803
-three-0.012044711
-added-0.011781906
-closet-0.011775459
-style-0.009107478
-thre-0.008836079
-thr-0.008034331
-vote-0.005039971
+video-0.086702354
+liked-0.052966047
+playlist-0.025058743
+added-0.02490138
+fit-0.014027423
+anyone-0.008469388
+interested-0.0080917105
+team-0.008034609
+recommend-0.008021174
+join-0.0074945423
+might-0.006276926
+job-0.0059519703
+official-0.0052181394
+fortnite-0.0042386646
+careerarc-0.0041003902
+music-0.003906724
+part-0.0037905544
+hiring-0.0036342812
+latest-0.0035619657
+full-0.0029785363
 
 Top tweet:
-#Fanboost #JoseMariaLopez #VamosPechito 💪
-I'm voting for the #FANBOOST!  Vote for your favourite driver here: https://t.co/jVBqOksFxX
+I liked a @YouTube video https://t.co/8zBX6UjXAT Lil Dicky - $ave Dat Money feat. Fetty Wap and Rich Homie Quan (Official Music Video)
 
 Entities:
-#FelixRosenqvist
-#FANBOOST
-#passioneer
-@Poshmarkapp
+@YouTube

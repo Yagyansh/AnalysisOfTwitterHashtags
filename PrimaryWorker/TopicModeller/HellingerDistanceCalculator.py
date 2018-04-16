@@ -8,7 +8,7 @@ import scipy
 
 from ExtraUseFiles.Constants import *
 from ExtraUseFiles.OS_Utility import get_dir
-from ExtraUseFiles.DateTimeController import get_today, get_date_string
+from ExtraUseFiles.DateTimeController import get_today, get_date_string, start_timing, stop_timing, get_time
 
 TODAY = get_today()
 TODAY_STRING = get_date_string(TODAY)
@@ -26,13 +26,16 @@ lda = models.LdaModel.load(LDA_PATH)
 # print topic0[1]
 # print lda.print_topics(-1)
 topics = []
+""" Format of topics to use now is topics[0][TopicNumber][1], 1 for getting words and probabilities. """
+topicdist = []
 # for i in range(len(lda.show_topics(-1))):
 topics.append(lda.show_topics(-1))
-""" Format of topics to use now is topics[0][TopicNumber][1], 1 for getting words and probabilities. """
+
 
 # print len(topics)
 # print topics
 # print topics[0][1][1]
+# lengthoftopics = len(topics[0])
 
 """Takes the string returned by LDAmodel.show_topics() """
 def bow_of_topics(topic):
@@ -53,6 +56,7 @@ def bow_of_topics(topic):
         word = lda.id2word.doc2bow([word])[0][0]  # Convert to word_type
         topic_bow.append((word, float(prob)))
     return topic_bow
+
 
 
 def sparse2full(doc, length):
@@ -114,15 +118,44 @@ def hellinger(vec1, vec2, lda=None, bow=False, num_of_docs=None):
     return sim
 
 
+
+for i in range(len(topics[0])):
+    topicdist.append(bow_of_topics(topics[0][i][1]))
+
+# print topics[0][0][1]
+# print topics[0][1][1]
+# print topics[0][2][1]
+# print topicdist[0]
+# print topicdist[1]
+# print topicdist[2]
+# print len(topicdist)
 # topicdist0 = bow_of_topics(topics[0][1][1])
 # topicdist1 = bow_of_topics(topics[1][1][1])
+# topicdist = []
+# for i in range(1, len(topics)):
+#     print bow_of_topics(topics[0][1][1])
 
-
-# if __name__ == '__main__':
-#     topicdist0 = bow_of_topics(topics[0][1][1])
-#     topicdist6 = bow_of_topics(topics[0][10][1])
-#     topicdist4 = bow_of_topics(topics[0][17][1])
-#     print topics[0][10][1]
-#     print topics[0][17][1]
-#     similarity = hellinger(topicdist6,topicdist4,bow=True)
-#     print similarity
+if __name__ == '__main__':
+    print 'Started Calculating Hellinger Distances at ' + get_time() + '... ',
+    start_timing()
+    #sdad
+    #topicdist.append(bow_of_topics(topics[0][i][1]))
+    # topicdist0 = bow_of_topics(topics[0][1][1])
+    # topicdist6 = bow_of_topics(topics[0][10][1])
+    # topicdist4 = bow_of_topics(topics[0][17][1])
+    #print topics[0][10][1]
+    # print topics[0][17][1]
+    # print len(topicdist)
+    # print hellinger(topicdist[0],topicdist[2],bow=True) #0.30083217913
+    # print hellinger(bow_of_topics(topics[0][0][1]), bow_of_topics(topics[0][2][1]), bow=True)
+    #print hellinger(topicdist[0], topicdist[3], bow=True)
+    filehandler = open('HellingerSimilarities.txt','a')
+    similarity = []
+    for i in range(len(topicdist)):
+        for j in range(len(topicdist)):
+            #print i,j
+            similarity.append(hellinger(topicdist[i],topicdist[j],bow=True))
+            filehandler.write("Hellinger Distance between %d and %d is - " % (i,j) + str(hellinger(topicdist[i],topicdist[j],bow=True)) + "\n")
+    #print similarity
+    print '\nFinished at  ' + get_time()
+    stop_timing()

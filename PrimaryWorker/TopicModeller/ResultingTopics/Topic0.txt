@@ -1,35 +1,31 @@
 Top 20 Word - Probability:
-thosfansbts17m-0.03975311
-love-0.027082246
-onedirectionbestfans-0.026437953
-bts-0.024744017
-vote-0.013633795
-army-0.013413564
-follow-0.011053983
-kca-0.008621655
-jimin-0.008560275
-voting-0.0066333204
-meet_jimin-0.006267349
-back-0.006267013
-please-0.0060531753
-deserve-0.005687478
-leave-0.005587045
-favglobalmusicbts-0.0055723023
-mutuals-0.005535486
-rts-0.0054815384
-keep-0.0053956606
-never-0.004867244
+exo-0.14140786
+elyxioninbkk-0.083747774
+bangkok-0.034238677
+elyxion-0.029627709
+fancam-0.018447448
+sehun-0.018014079
+chanyeol-0.012660421
+exol-0.011587062
+love-0.011450871
+thai-0.010846896
+baekhyun-0.010428261
+kyungsoo-0.009889231
+focus-0.0074847327
+kai-0.007307728
+omg-0.0064354986
+xiumin-0.006420726
+fan-0.006350316
+please-0.005858939
+vid-0.005801102
+project-0.005577997
 
 Top tweet:
-Kpoppies:BTS cant sing.
-News: @BTS_twt break record again!
-Kpoppies:BTS cant sing.
-News:BTS rise up on chart!
-Kpopp… https://t.co/WXvFzSRA99
+rt to gain kim junmyeon stan mutuals, follow everyone that retweets and make sure to follow back #엑소 #EXO @weareoneEXO
 
 Entities:
-@Camila_Cabello
-#OneDirectionBestFans
-@Louis_Tomlinson
-@BTS_twt
-#THOSFansBTS17M
+#ElyXioninBKKDay2
+#ElyXioninBKK
+#엑소
+@weareoneEXO
+#EXO

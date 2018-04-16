@@ -1,30 +1,29 @@
 Top 20 Word - Probability:
-kca-0.110620245
-vote-0.036155306
-blockchain-0.03457298
-favmusicalgrouptwentyonepilots-0.016779564
-favbreakoutartistharrystyles-0.014727428
-favglobalmusicbts-0.012774469
-tweet-0.011726065
-favpinoynewbiejoshua-0.010281059
-airdrop-0.007887177
-bitcoin-0.007886874
-favpinoynewbieloisa-0.006860399
-harry-0.0067777135
-per-0.006261822
-love-0.0059808027
-ico-0.005834741
-cryptocurrency-0.005834592
-retweet-0.0056557534
-reply-0.005625367
-favmusicalgroupfifthharmony-0.0054920167
-voting-0.005472735
+stpatricksday-0.11848935
+happy-0.04872513
+nowplaying-0.028668249
+irish-0.023523487
+green-0.01798433
+patrick-0.013645075
+celebrate-0.010505334
+everyone-0.009419989
+luck-0.009097645
+wishing-0.0075585293
+may-0.0068708337
+holiday-0.006333988
+love-0.0046175956
+lucky-0.0045747017
+ireland-0.0045521725
+safe-0.0044248463
+celebrating-0.004357795
+fun-0.0043126866
+world-0.0041687167
+parade-0.0041167745
 
 Top tweet:
-Remember its one tweet per account per day but unlimited retweets
-Dont forget to add # KCA
-#KCA #FavBreakoutArtistHarryStyles
+Happy St. Patrick's Day Eve.  Tomorrow in Chicago, we dye the River Green. #StPatricksDay #ireland #chicago #news https://t.co/5uKznKIKuM
 
 Entities:
-#KCA
-#blockchain
+#NowPlaying
+#HappyStPatricksDay
+#StPatricksDay

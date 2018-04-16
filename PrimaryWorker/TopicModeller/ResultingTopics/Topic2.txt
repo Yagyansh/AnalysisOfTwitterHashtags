@@ -1,29 +1,30 @@
 Top 20 Word - Probability:
-aids-0.0513886
-prevention-0.032124933
-awareness-0.030834824
-spreading-0.026989043
-helping-0.02013948
-fighting-0.01682313
-time-0.013545886
-volunteers-0.010296031
-stpatricksday-0.009872541
-saint-0.009301329
-guru-0.008583655
-people-0.008471436
-disease-0.0072999657
-hiv-0.0068720784
-conducts-0.0064436803
-also-0.006223069
-making-0.005414051
-relies-0.005160026
-spread-0.004744468
-happy-0.00434208
+found-0.05097459
+win-0.050526377
+trecru-0.0503624
+snail-0.050360713
+transponder-0.050360464
+giveaway-0.045099113
+enter-0.020328166
+follow-0.018235918
+amazing-0.016941965
+giants-0.015081555
+sea-0.014915637
+encounters-0.014419281
+monsters-0.014418868
+chance-0.011159322
+look-0.0075602834
+entered-0.00679928
+inside-0.005865226
+shots-0.005806367
+competition-0.0056381323
+retweet-0.005629042
 
 Top tweet:
-The three main goals of this program #एड्सजागरूकता
-would be health promotion nd reduction of illness by educating o… https://t.co/vccoEtAyUS
+#Win The Berenstain Bears and the Easter Story
+plus a $50 Shutterfly code to order family Easter photos with all th… https://t.co/VSBdtJsHoP
 
 Entities:
-#एड्सजागरूकता
-#SaintMSG_Initiative34
+#TreCru
+#win
+#giveaway

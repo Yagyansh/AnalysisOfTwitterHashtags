@@ -1,27 +1,28 @@
 Top 20 Word - Probability:
-aids-0.0414232
-prevention-0.028429676
-awareness-0.0236982
-spreading-0.016609693
-hiv-0.015427676
-work-0.010749235
-ppl-0.010665811
-disease-0.009519596
-people-0.009405558
-aware-0.00833159
-saint-0.00734549
-help-0.0071583698
-spread-0.0071558906
-rallies-0.0071558896
-followers-0.005994005
-dera-0.0059740967
-among-0.005967219
-helping-0.0048483205
-become-0.0048357993
-time-0.004824653
+aids-0.07203097
+happystpatricksday-0.05138036
+prevention-0.046012856
+awareness-0.04229117
+spreading-0.03579531
+helping-0.024560794
+fighting-0.019986946
+time-0.014381267
+hiv-0.013500811
+volunteers-0.012100213
+people-0.011880179
+disease-0.011641431
+guru-0.010709569
+saint-0.009394264
+conducts-0.007921424
+spread-0.007904767
+also-0.0074664806
+making-0.006730949
+relies-0.0065287175
+followers-0.00561803
 
 Top tweet:
-#SaintMSG_Initiative34
-Every year 1st December is celebrated as World AIDS day to eradicate the HIV virus from its… https://t.co/xOgKbHZaho
+#SaintMSG_Initiative34 #एड्सजागरूकता @DSS volunters also conducts relies time to time for making people aware about AIDS and it's prevention
 
 Entities:
+#एड्सजागरूकता
+#SaintMSG_Initiative34

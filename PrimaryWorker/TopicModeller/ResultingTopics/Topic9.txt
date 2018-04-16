@@ -1,37 +1,27 @@
 Top 20 Word - Probability:
-trump-0.014472589
-nowplaying-0.013903006
-mccabe-0.011475993
-people-0.007816558
-president-0.0058595818
-ifsocialmediadisappeared-0.0056073777
-america-0.005264789
-fired-0.005053212
-fbi-0.004915646
-mueller-0.004851624
-time-0.00472899
-man-0.004084256
-think-0.004009227
-john-0.003525165
-corruption-0.0034675654
-american-0.00344043
-please-0.0031051778
-coming-0.0030940953
-love-0.003044695
-keep-0.0030314298
+love-0.028253153
+jbj-0.025014002
+thosfansbts17m-0.022411725
+meet_jimin-0.018314268
+please-0.008642728
+give-0.0086341
+joyful-0.008221019
+smile-0.008195738
+joyfuls-0.0074399356
+dream-0.007262216
+jimin-0.006926045
+guys-0.006068664
+end-0.00601667
+meet_bts-0.0059764963
+boys-0.0059725298
+time-0.0056069233
+never-0.005420789
+billboard-0.005265116
+voted-0.005213738
+still-0.00516921
 
 Top tweet:
-Petty &amp; paranoid @realdonaldTrump fires Andy McCabe in sadistic mob style hit after 22 year law enforcement career… https://t.co/UbJbn7zlEl
+I truly hope there’ll be good news soon #지지않는_꽃이야_787 meanwhile let’s continue to fight and not give up on them. JBJ deserves better!
 
 Entities:
-@JohnBrennan
-@woodruffbets
-@davidhogg111
-@RepSwalwell
-#NowPlaying
-@POTUS
-@FoxNews
-@realDonaldTrump
-@MSNBC
-#IfSocialMediaDisappeared
-@CNN
+#지지않는_꽃이야_787

@@ -1,29 +1,30 @@
 Top 20 Word - Probability:
-job-0.10166681
-hiring-0.094590195
-careerarc-0.08152219
-latest-0.032936778
-work-0.028192073
-click-0.024947623
-jobs-0.024928296
-opening-0.024525063
-fit-0.023703847
-anyone-0.020423057
-recommend-0.020018125
-apply-0.017387936
-interested-0.0135813
-join-0.012623081
-team-0.012538678
-view-0.011595304
-might-0.010291429
-check-0.009313341
-looking-0.009308326
-details-0.007822029
+kca-0.1097723
+vote-0.035783138
+blockchain-0.031002095
+favglobalmusicbts-0.015441034
+favmusicalgrouptwentyonepilots-0.015050161
+favbreakoutartistharrystyles-0.013032406
+tweet-0.011972692
+favpinoynewbiejoshua-0.009220632
+per-0.007813001
+airdrop-0.007071779
+bitcoin-0.0070711183
+favpinoynewbieloisa-0.0061528618
+retweet-0.0056569325
+love-0.005655161
+daily-0.0056205764
+reply-0.005290748
+voting-0.005272108
+harry-0.005267047
+cryptocurrency-0.0052320687
+ico-0.0052320636
 
 Top tweet:
-Join the Supplemental Health Care team! See our latest #job opening here: https://t.co/HpYj312VW6 #Nursing #Amarillo, TX #Hiring #CareerArc
+Remember its one tweet per account per day but unlimited retweets
+Dont forget to add # KCA
+#KCA #FavBreakoutArtistHarryStyles
 
 Entities:
-#Hiring
-#CareerArc
-#job
+#KCA
+#blockchain

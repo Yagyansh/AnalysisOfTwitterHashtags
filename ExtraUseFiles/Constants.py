@@ -55,6 +55,7 @@ PREPROCESSOR = 'PreProcessor.py'
 ENTITYAGGREGATOR = 'EntityAggregator.py'
 TOPIC_FILE_PREFIX = 'Topic'
 
+
 # Directories
 DATA_DIR = 'ScrapedData'
 TEMP_DIR = 'Temporary'

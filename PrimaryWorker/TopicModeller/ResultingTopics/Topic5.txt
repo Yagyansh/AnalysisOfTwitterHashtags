@@ -1,30 +1,27 @@
 Top 20 Word - Probability:
-win-0.08600487
-giveaway-0.07597549
-enter-0.03431656
-follow-0.033162676
-chance-0.019127209
-entered-0.011426384
-retweet-0.01091788
-competition-0.009380647
-freebiefriday-0.0068225507
-code-0.0067907507
-ends-0.006578479
-prize-0.0055341567
-time-0.005390197
-worth-0.005282049
-giftcard-0.005189131
-gift-0.0051876185
-gaming-0.005181536
-simply-0.0050702207
-card-0.0050191586
-away-0.0048862766
+ifsocialmediadisappeared-0.087243415
+people-0.020173527
+iheartawards-0.013661454
+bestfanarmy-0.012612121
+social-0.011228109
+world-0.008562201
+better-0.0074943164
+actually-0.007216699
+time-0.007056787
+life-0.0070503317
+media-0.005901103
+never-0.0053987587
+everyone-0.0052547487
+stage-0.0051598195
+pop-0.0049719783
+face-0.0048408126
+place-0.0048039244
+ahh-0.004669171
+friends-0.0044667665
+way-0.004438729
 
 Top tweet:
-#Win The Berenstain Bears and the Easter Story
-plus a $50 Shutterfly code to order family Easter photos with all th… https://t.co/VSBdtJsHoP
+#IfSocialMediaDisappeared More people would be happier with their lives due to low comparison rates and cyber bully… https://t.co/O2Ihv6Zuzf
 
 Entities:
-@FortniteGame
-#win
-#giveaway
+#IfSocialMediaDisappeared

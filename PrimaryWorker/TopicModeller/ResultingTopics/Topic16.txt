@@ -1,30 +1,33 @@
 Top 20 Word - Probability:
-happystpatricksday-0.07383969
-thosfansbts17m-0.015811676
-meet_bts-0.012249395
-meet_jimin-0.010033932
-marchmadness-0.008584528
-teen-0.0071806447
-act-0.0061316793
-bts-0.0059133377
-army-0.005597673
-everyone-0.004973684
-end-0.0049720085
-rainbow-0.004891084
-park-0.0046224897
-hour-0.0045009777
-line-0.0043562907
-teambts-0.0042518224
-relief-0.0041589458
-pain-0.0039872816
-first-0.003981606
-heart-0.0039001275
+mccabe-0.021307835
+trump-0.019801665
+america-0.010670049
+fbi-0.009660433
+fired-0.009232875
+president-0.008407639
+people-0.007103063
+john-0.0064484784
+american-0.0063491543
+man-0.005511545
+coming-0.004939286
+think-0.0048883995
+firing-0.0048630917
+mueller-0.004659168
+star-0.0045530363
+usa-0.0044131638
+wait-0.004264031
+andrew-0.0040769894
+obama-0.004073221
+corrupt-0.0037968936
 
 Top tweet:
-Ayo Ladies and Gentleman 🙋
-
-Join the #Meet_BTS project and let's introduce @BTS_twt to new/non armys.
-Share your me… https://t.co/nDZ12aFBqf
+The GOP might explode when Stormy Daniels tells the world about Trump's tiny penis on 60 Minutes. Tick tock. @realDonaldTrump
 
 Entities:
-#HappyStPatricksDay
+@JohnBrennan
+@RepSwalwell
+@POTUS
+@FoxNews
+@realDonaldTrump
+@MSNBC
+@CNN

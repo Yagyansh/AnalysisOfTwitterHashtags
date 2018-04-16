@@ -1,29 +1,30 @@
 Top 20 Word - Probability:
-isupportjeremycorbyn-0.08569579
-maga-0.071028344
-man-0.006886468
-support-0.006780894
-corbyn-0.0060484954
-people-0.0058809426
-qanon-0.0055016167
-right-0.0049032425
-many-0.0048257806
-keep-0.0047661057
-draintheswamp-0.0044755116
-retired-0.004384701
-jeremy-0.004295879
-labour-0.0042589405
-leader-0.00425878
-saturdaymorning-0.0039914
-first-0.0038990607
-hope-0.003753511
-trumptrain-0.003653423
-integrity-0.0035516575
+indiawants_avrecording_incourts-0.053885017
+proceedings-0.037998363
+court-0.01658257
+video-0.014984869
+audio-0.014194698
+recording-0.010022078
+people-0.010008305
+corruption-0.009408405
+justice-0.009249379
+trump-0.008676003
+mueller-0.006384883
+india-0.0058648773
+right-0.0057578227
+time-0.0056239637
+proceeding-0.005416782
+country-0.005235252
+courts-0.005187197
+man-0.004849301
+corrupt-0.0047763656
+president-0.004747748
 
 Top tweet:
-Glazov Gang: Terror of Islamic Hell.  The Glazov Gang
-#GabFam #MAGA #News #auspol #SpeakFreely #ausfam #Australia… https://t.co/bPfEEx3NY7
+Omg small point but @woodruffbets says on @amjoyshow that trump’s attorney John Dowd uses purple comic sans font in all of his emails lol.
 
 Entities:
-#MAGA
-#ISupportJeremyCorbyn
+@woodruffbets
+@SatlokChannel
+@narendramodi
+#IndiaWants_AVRecording_InCourts

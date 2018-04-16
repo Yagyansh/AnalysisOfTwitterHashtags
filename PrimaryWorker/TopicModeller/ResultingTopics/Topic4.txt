@@ -1,30 +1,28 @@
 Top 20 Word - Probability:
-marchmadness-0.043072682
-quote-0.034802835
-soundcloud-0.024744378
-listen-0.01908414
-umbc-0.011515587
-twitter-0.011480932
-win-0.007774965
-night-0.007396365
-game-0.0068472167
-love-0.0068315067
-heard-0.006636094
-upset-0.0065804194
-seed-0.0062816697
-time-0.0062414417
-round-0.006177769
-virginia-0.005931623
-bracket-0.0046927067
-history-0.004531962
-beat-0.0044819377
-first-0.004464958
+poshmark-0.06370772
+shopmycloset-0.047789924
+soundcloud-0.04523632
+check-0.03242625
+listen-0.032162625
+share-0.03186957
+loving-0.031236287
+items-0.031235082
+fashion-0.029324235
+closet-0.028687984
+added-0.028059652
+style-0.02195462
+heard-0.011582334
+prod-0.0076756463
+dress-0.005766428
+discovered-0.005765556
+tonkra-0.0051287
+feat-0.004922816
+blue-0.0035125648
+music-0.003389496
 
 Top tweet:
-MAKING HISTORY: University of Maryland, Baltimore County (UMBC) becomes the first 16-seed in #MarchMadness history… https://t.co/3VF8a4ROdw
+Listen to My Vision- Kyra Ilaya Sanders (PROD. BY NINO) by Kyra Ilaya Sanders #np on #SoundCloud https://t.co/XzGncjGEBl
 
 Entities:
-@UMBCAthletics
-#quote
 #np
-#MarchMadness
+@Poshmarkapp

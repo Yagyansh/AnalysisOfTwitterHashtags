@@ -1,32 +1,27 @@
 Top 20 Word - Probability:
-exo-0.15598696
-elyxioninbkk-0.07857329
-bangkok-0.048121933
-elyxion-0.02986566
-eℓyxion-0.017985381
-preview-0.017399643
-sehun-0.016689999
-chanyeol-0.015827881
-baekhyun-0.013186852
-planet-0.012930663
-fancam-0.012410861
-love-0.012124355
-kyungsoo-0.008611082
-xiumin-0.007802699
-exol-0.007312348
-jongin-0.007171402
-kai-0.007075168
-thai-0.006657744
-omg-0.0054089483
-chen-0.005259053
+maga-0.04058762
+trump-0.018169198
+mccabe-0.014894098
+news-0.007958371
+america-0.007022278
+well-0.0060972837
+fired-0.0055435644
+qanon-0.005502598
+corruption-0.0047353655
+people-0.004418374
+fbi-0.0043728366
+andrew-0.0041186125
+right-0.0039990447
+president-0.0038272392
+american-0.0038038017
+keep-0.0037361463
+hope-0.0036420545
+said-0.0034057514
+way-0.0033339392
+saturdaymorning-0.0032919012
 
 Top tweet:
-@BUNNYMYE0N @weareoneEXO Omg!!!  My heart stopped for a moment... Please take care Chanyeol
-#EXO #EXOL #엑소 @weareoneEXO Xiumin
+@FoxNews @POTUS Jeff Sessions statement on firing McCabe said "The FBI expects every employee to adhere to the high… https://t.co/4wGt7XFtpb
 
 Entities:
-#ElyXioninBKKDay2
-#ElyXioninBKK
-#엑소
-@weareoneEXO
-#EXO
+#MAGA

@@ -1,27 +1,32 @@
 Top 20 Word - Probability:
-video-0.110487826
-liked-0.068254665
-playlist-0.03249483
-added-0.0321156
-official-0.006501836
-fortnite-0.0055662673
-music-0.0049884445
-part-0.0044058827
-full-0.0035151558
-game-0.0030340164
-episode-0.002866832
-battle-0.002860201
-march-0.0027037628
-song-0.0026754376
-onedirectionbestfans-0.0026596687
-play-0.0026013053
-news-0.0025820965
-time-0.0023698653
-love-0.0023573125
-trailer-0.0022553753
+aldublovewins-0.049199942
+thosfansbts17m-0.022327015
+isupportjeremycorbyn-0.015662026
+bts-0.01563878
+love-0.013975039
+quote-0.011465098
+army-0.008936427
+life-0.0072012357
+follow-0.0065429113
+vote-0.0062150145
+keep-0.0057384637
+back-0.004884503
+time-0.0048139887
+never-0.0047384063
+man-0.0044740075
+jimin-0.004174138
+world-0.003805352
+people-0.0035660197
+happy-0.0035374751
+leave-0.0035171474
 
 Top tweet:
-I liked a @YouTube video https://t.co/8zBX6UjXAT Lil Dicky - $ave Dat Money feat. Fetty Wap and Rich Homie Quan (Official Music Video)
+follow everyone who rts this to gain bts stan mutuals 🐵
+turn on my notifications so you can gain more bts mutuals @BTS_twt
 
 Entities:
-@YouTube
+#ALDUBLoveWins
+#quote
+@BTS_twt
+#ISupportJeremyCorbyn
+#THOSFansBTS17M

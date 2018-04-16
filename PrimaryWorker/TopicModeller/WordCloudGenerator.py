@@ -43,9 +43,9 @@ def create_wordcloud(topic_id):
 
         except:
             continue
-    print words_arr
+    # print words_arr
     normalize(freq_arr)
-    print freq_arr
+    # print freq_arr
     #Generating word cloud
     word_count = len(words_arr)
     text = ""

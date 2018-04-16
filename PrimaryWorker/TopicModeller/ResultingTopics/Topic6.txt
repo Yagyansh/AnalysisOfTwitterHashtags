@@ -1,29 +1,32 @@
 Top 20 Word - Probability:
-found-0.094865724
-snail-0.094173744
-transponder-0.09417039
-trecru-0.09416999
-amazing-0.028835012
-giants-0.028200049
-monsters-0.026963105
-encounters-0.026962595
-sea-0.026960058
-look-0.013392591
-inside-0.01087837
-shots-0.010547906
-exclusive-0.010238663
-hats-0.009293952
-straw-0.008689646
-candid-0.007140732
-luffy-0.0071395957
-behind-0.0059028724
-kami-0.0055923224
-battle-0.0052827955
+love-0.028327527
+follow-0.013181963
+code-0.0131529225
+deserve-0.01108773
+please-0.010535112
+fortnite-0.008219192
+vote-0.0069400514
+codes-0.0068540466
+proud-0.006523224
+listen-0.0064763385
+never-0.0063082348
+come-0.005962778
+play-0.0059347535
+still-0.0056658657
+louisbestfans-0.005596039
+give-0.0052127372
+ios-0.0050329724
+people-0.0049683815
+louis-0.0047749644
+college-0.004577996
 
 Top tweet:
-Found a Transponder Snail!
-Battle rages in Upper Yard! Shandians vs. "Kami"!
-https://t.co/DkcYiFsiMb #TreCru https://t.co/wfWeUyWmTH
+@FortniteGame @postboxpat Im giving away #Fortnite iOS Invite Event codes to 3 lucky winners! 
+
+- Must Be Following… https://t.co/OXCXauSriN
 
 Entities:
-#TreCru
+@Camila_Cabello
+@davidhogg111
+@FortniteGame
+@Louis_Tomlinson
