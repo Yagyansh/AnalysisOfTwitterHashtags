@@ -149,7 +149,7 @@ if __name__ == '__main__':
     # print hellinger(topicdist[0],topicdist[2],bow=True) #0.30083217913
     # print hellinger(bow_of_topics(topics[0][0][1]), bow_of_topics(topics[0][2][1]), bow=True)
     #print hellinger(topicdist[0], topicdist[3], bow=True)
-    filehandler = open('HellingerSimilarities.txt','a')
+    filehandler = open('/home/yagyansh/AnalysisOfTwitterHashtags/PrimaryWorker/TopicModeller/Similarities/HellingerSimilarities.txt','a')
     similarity = []
     for i in range(len(topicdist)):
         for j in range(len(topicdist)):

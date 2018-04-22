@@ -1,28 +1,29 @@
 Top 20 Word - Probability:
-exo-0.1624874
-bangkok-0.05524921
-elyxioninbkk-0.050924692
-preview-0.034616277
-eℓyxion-0.031417403
-elyxion-0.024554735
-planet-0.022691883
-chanyeol-0.015740862
-baekhyun-0.014292943
-sehun-0.013470917
-love-0.010686872
-xiumin-0.008659534
-chen-0.008529122
-jongin-0.008512883
-suho-0.00782934
-oxo_th-0.006879054
-kai-0.0066534146
-junmyeon-0.0065553123
-exol-0.0061591035
-hit-0.006017152
+nowplaying-0.064271055
+ifsocialmediadisappeared-0.044620823
+people-0.011183557
+listenlive-0.008159573
+love-0.0067779818
+listen-0.0064433143
+radio-0.0060675833
+life-0.0051554744
+world-0.005066032
+tune-0.0038677321
+better-0.0035506375
+social-0.0034488633
+actually-0.0033080357
+music-0.003028972
+never-0.0029422126
+place-0.0027911686
+way-0.002751244
+time-0.0027201623
+media-0.0026283897
+ugadi-0.002610985
 
 Top tweet:
-Oh my god Minseok and Baekhyun wearing those ladies hats hahahaha they are so extra 😂😂😂😂
-
-#EXO #XIUMIN #EXO… https://t.co/n6QWICfYN1
+♫ #NowPlaying Riccardo Polidoro - Loved Me Back To Life from @tobiasvariano's #iPhone by Briptu RN LDD~ #music #polisi #cop #police #lagu
 
 Entities:
+#NowPlaying
+@narendramodi
+#IfSocialMediaDisappeared

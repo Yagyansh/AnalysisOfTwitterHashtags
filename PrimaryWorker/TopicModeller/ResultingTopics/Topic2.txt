@@ -1,30 +1,27 @@
 Top 20 Word - Probability:
-found-0.05097459
-win-0.050526377
-trecru-0.0503624
-snail-0.050360713
-transponder-0.050360464
-giveaway-0.045099113
-enter-0.020328166
-follow-0.018235918
-amazing-0.016941965
-giants-0.015081555
-sea-0.014915637
-encounters-0.014419281
-monsters-0.014418868
-chance-0.011159322
-look-0.0075602834
-entered-0.00679928
-inside-0.005865226
-shots-0.005806367
-competition-0.0056381323
-retweet-0.005629042
+stpatricksday-0.13394211
+happy-0.05534686
+irish-0.027322922
+green-0.01696587
+patrick-0.014052346
+celebrate-0.012467182
+everyone-0.01087736
+luck-0.009807448
+may-0.008516654
+wishing-0.0075434432
+safe-0.0057573644
+lucky-0.0055460567
+celebrating-0.005388734
+ireland-0.0048015825
+world-0.004533728
+fun-0.0045165247
+parade-0.004280629
+luckoftheirish-0.004254683
+friends-0.0036868874
+pot-0.0034734372
 
 Top tweet:
-#Win The Berenstain Bears and the Easter Story
-plus a $50 Shutterfly code to order family Easter photos with all th… https://t.co/VSBdtJsHoP
+Bunch of lil punks celebrating #StPatricksDay not recognizing the struggles their ancestors went thru, like beer crawls without cell phones.
 
 Entities:
-#TreCru
-#win
-#giveaway
+#StPatricksDay

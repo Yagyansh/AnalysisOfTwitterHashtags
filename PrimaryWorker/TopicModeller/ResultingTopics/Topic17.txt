@@ -1,28 +1,29 @@
 Top 20 Word - Probability:
-aids-0.07203097
-happystpatricksday-0.05138036
-prevention-0.046012856
-awareness-0.04229117
-spreading-0.03579531
-helping-0.024560794
-fighting-0.019986946
-time-0.014381267
-hiv-0.013500811
-volunteers-0.012100213
-people-0.011880179
-disease-0.011641431
-guru-0.010709569
-saint-0.009394264
-conducts-0.007921424
-spread-0.007904767
-also-0.0074664806
-making-0.006730949
-relies-0.0065287175
-followers-0.00561803
+job-0.10366951
+hiring-0.09671887
+careerarc-0.08323687
+latest-0.033881146
+work-0.028283518
+click-0.025453513
+jobs-0.025451617
+opening-0.024901586
+fit-0.024078371
+anyone-0.020500755
+recommend-0.020499032
+apply-0.017748727
+interested-0.013621931
+team-0.012812376
+join-0.012789554
+view-0.011833867
+might-0.010457681
+looking-0.009494295
+check-0.009390954
+details-0.0079812985
 
 Top tweet:
-#SaintMSG_Initiative34 #एड्सजागरूकता @DSS volunters also conducts relies time to time for making people aware about AIDS and it's prevention
+#Salem #OR - Entry-Level CDL-A Truck Drivers - Paid Training Guaranteed #Job Placement - We Train We Hire Guarantee… https://t.co/36unCiLUvG
 
 Entities:
-#एड्सजागरूकता
-#SaintMSG_Initiative34
+#Hiring
+#CareerArc
+#job

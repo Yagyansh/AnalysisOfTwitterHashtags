@@ -1,32 +1,28 @@
 Top 20 Word - Probability:
-love-0.028327527
-follow-0.013181963
-code-0.0131529225
-deserve-0.01108773
-please-0.010535112
-fortnite-0.008219192
-vote-0.0069400514
-codes-0.0068540466
-proud-0.006523224
-listen-0.0064763385
-never-0.0063082348
-come-0.005962778
-play-0.0059347535
-still-0.0056658657
-louisbestfans-0.005596039
-give-0.0052127372
-ios-0.0050329724
-people-0.0049683815
-louis-0.0047749644
-college-0.004577996
+happystpatricksday-0.037882525
+twitter-0.008211796
+mccabe-0.0071477164
+first-0.005740405
+people-0.0056939847
+time-0.0056403764
+trump-0.005353386
+sure-0.00515488
+everyone-0.004699905
+job-0.004475019
+night-0.0043835146
+guy-0.004351858
+man-0.003915104
+whoever-0.003708946
+whatever-0.0035935561
+college-0.0033873897
+history-0.003252555
+hate-0.0031620213
+called-0.0031331608
+dog-0.003089577
 
 Top tweet:
-@FortniteGame @postboxpat Im giving away #Fortnite iOS Invite Event codes to 3 lucky winners! 
-
-- Must Be Following… https://t.co/OXCXauSriN
+@CNN Cant afford to save I’m too busy paying bills healthcare student loans car rent electric etc!!!!
 
 Entities:
-@Camila_Cabello
-@davidhogg111
-@FortniteGame
-@Louis_Tomlinson
+#HappyStPatricksDay
+@CNN

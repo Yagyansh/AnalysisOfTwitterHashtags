@@ -1,33 +1,27 @@
 Top 20 Word - Probability:
-mccabe-0.021307835
-trump-0.019801665
-america-0.010670049
-fbi-0.009660433
-fired-0.009232875
-president-0.008407639
-people-0.007103063
-john-0.0064484784
-american-0.0063491543
-man-0.005511545
-coming-0.004939286
-think-0.0048883995
-firing-0.0048630917
-mueller-0.004659168
-star-0.0045530363
-usa-0.0044131638
-wait-0.004264031
-andrew-0.0040769894
-obama-0.004073221
-corrupt-0.0037968936
+video-0.041527156
+quote-0.039441574
+liked-0.030436125
+added-0.008708111
+playlist-0.008707527
+love-0.005605961
+happy-0.005560123
+life-0.004755853
+never-0.004754844
+fargo-0.0047536357
+tim-0.0047536176
+spirit-0.003963413
+part-0.003961462
+every-0.0031740675
+world-0.0031740095
+way-0.0031737722
+black-0.003172828
+fear-0.0031724025
+google-0.003171821
+battle-0.0031712728
 
 Top tweet:
-The GOP might explode when Stormy Daniels tells the world about Trump's tiny penis on 60 Minutes. Tick tock. @realDonaldTrump
+#quote 'Politics' is derived from the word 'poly', meaning 'many', and the word 'ticks', meaning 'blood sucking parasites'. L Hardiman
 
 Entities:
-@JohnBrennan
-@RepSwalwell
-@POTUS
-@FoxNews
-@realDonaldTrump
-@MSNBC
-@CNN
+#quote

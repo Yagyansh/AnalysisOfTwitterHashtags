@@ -1,29 +1,27 @@
 Top 20 Word - Probability:
-job-0.14221792
-hiring-0.13626695
-careerarc-0.11490525
-latest-0.043977536
-work-0.04109954
-click-0.03774839
-jobs-0.037643004
-opening-0.034139547
-apply-0.025993492
-view-0.01682833
-details-0.012016876
-looking-0.011170397
-recommend-0.01037098
-check-0.009549034
-anyone-0.009053174
-manager-0.007849266
-sales-0.007296205
-labor-0.0069607375
-veterans-0.0059814635
-engineering-0.005694608
+video-0.09552999
+liked-0.058511034
+playlist-0.028582294
+added-0.028294677
+official-0.0060714465
+fortnite-0.004535846
+music-0.004313743
+part-0.0034486097
+full-0.0029707407
+game-0.0025161272
+episode-0.002315823
+march-0.0023144393
+battle-0.002220085
+news-0.00208241
+song-0.002032839
+trailer-0.002020649
+time-0.0019818083
+play-0.0019286139
+war-0.0016871545
+audio-0.0016504175
 
 Top tweet:
-We're #hiring! Click to apply: Content Marketing Manager - https://t.co/rnQQZLNMR7 #Consulting #Toronto, Ontario #Job #Jobs #CareerArc
+I liked a @YouTube video https://t.co/8zBX6UjXAT Lil Dicky - $ave Dat Money feat. Fetty Wap and Rich Homie Quan (Official Music Video)
 
 Entities:
-#Hiring
-#CareerArc
-#job
+@YouTube

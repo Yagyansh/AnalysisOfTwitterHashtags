@@ -1,31 +1,26 @@
 Top 20 Word - Probability:
-exo-0.14140786
-elyxioninbkk-0.083747774
-bangkok-0.034238677
-elyxion-0.029627709
-fancam-0.018447448
-sehun-0.018014079
-chanyeol-0.012660421
-exol-0.011587062
-love-0.011450871
-thai-0.010846896
-baekhyun-0.010428261
-kyungsoo-0.009889231
-focus-0.0074847327
-kai-0.007307728
-omg-0.0064354986
-xiumin-0.006420726
-fan-0.006350316
-please-0.005858939
-vid-0.005801102
-project-0.005577997
+video-0.048432972
+liked-0.02619547
+added-0.010964546
+playlist-0.01095679
+game-0.004907247
+people-0.0037870517
+cold-0.0037487305
+coffee-0.0037474185
+making-0.003741163
+style-0.003692499
+film-0.0035656278
+love-0.0035199085
+media-0.0034881455
+around-0.0034181061
+watch-0.0029622074
+big-0.0028004118
+guy-0.0026271746
+investigation-0.0025551831
+options-0.0025066838
+study-0.0025064733
 
 Top tweet:
-rt to gain kim junmyeon stan mutuals, follow everyone that retweets and make sure to follow back #엑소 #EXO @weareoneEXO
+I added a video to a @YouTube playlist https://t.co/nrMywIU4RH GTS BATTLEBALLS PPV Free Link GTS WRESTLING Pay Per View! little nunzio
 
 Entities:
-#ElyXioninBKKDay2
-#ElyXioninBKK
-#엑소
-@weareoneEXO
-#EXO

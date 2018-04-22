@@ -1,27 +1,26 @@
 Top 20 Word - Probability:
-maga-0.04058762
-trump-0.018169198
-mccabe-0.014894098
-news-0.007958371
-america-0.007022278
-well-0.0060972837
-fired-0.0055435644
-qanon-0.005502598
-corruption-0.0047353655
-people-0.004418374
-fbi-0.0043728366
-andrew-0.0041186125
-right-0.0039990447
-president-0.0038272392
-american-0.0038038017
-keep-0.0037361463
-hope-0.0036420545
-said-0.0034057514
-way-0.0033339392
-saturdaymorning-0.0032919012
+trump-0.008708648
+people-0.007624801
+president-0.0074569853
+fake-0.0051836497
+even-0.0049809534
+potus-0.004979715
+man-0.004978572
+family-0.0049690288
+america-0.0044163116
+world-0.004413996
+well-0.0041937577
+support-0.0037399193
+clueless-0.0036082885
+proud-0.0035719338
+article-0.0034957598
+time-0.003369347
+business-0.003331816
+right-0.0031455066
+happy-0.0031018755
+every-0.0030403081
 
 Top tweet:
-@FoxNews @POTUS Jeff Sessions statement on firing McCabe said "The FBI expects every employee to adhere to the high… https://t.co/4wGt7XFtpb
+@realDonaldTrump KRG hugs who killed and enslaved Yazidi women children and men, imposing Kurdish identity on Yazid… https://t.co/063MVowbet
 
 Entities:
-#MAGA

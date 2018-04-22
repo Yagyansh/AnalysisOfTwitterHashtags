@@ -1,30 +1,27 @@
 Top 20 Word - Probability:
-fanboost-0.13351351
-felixrosenqvist-0.1305671
-getting-0.12788658
-passioneer-0.12762526
-race-0.12727599
-close-0.12712651
-three-0.0152660655
-thre-0.011139921
-thr-0.009833528
-vote-0.006376245
-puntadelesteeprix-0.004925955
-give-0.0046824003
-show-0.0041129272
-support-0.0040680305
-passioneering-0.0039444375
-stay-0.0010083955
-favourite-0.0010025819
-giving-0.0010020395
-begins-0.0010002706
-voting-0.000999975
+soundcloud-0.07191323
+listen-0.050541647
+heard-0.013718538
+prod-0.013718029
+music-0.0085822325
+feat-0.008582143
+remix-0.008582095
+rock-0.006870135
+pop-0.0068699205
+love-0.0061417767
+mewone-0.005158147
+cover-0.0034759121
+world-0.0034621865
+official-0.0034473217
+run-0.003446658
+hits-0.003446529
+mix-0.0034463909
+river-0.003446381
+latino-0.0034463394
+miles-0.0034463052
 
 Top tweet:
-#Fanboost #JoseMariaLopez #VamosPechito 💪
-I'm voting for the #FANBOOST!  Vote for your favourite driver here: https://t.co/jVBqOksFxX
+Listen to Boogy steelo Hunnid -  pineapple Heights (prod. by Space Dude Quincy) by BONGS BEATS #np on #SoundCloud… https://t.co/QIzfZM52es
 
 Entities:
-#FelixRosenqvist
-#FANBOOST
-#passioneer
+#np

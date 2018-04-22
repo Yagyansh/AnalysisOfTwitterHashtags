@@ -1,27 +1,29 @@
 Top 20 Word - Probability:
-video-0.086702354
-liked-0.052966047
-playlist-0.025058743
-added-0.02490138
-fit-0.014027423
-anyone-0.008469388
-interested-0.0080917105
-team-0.008034609
-recommend-0.008021174
-join-0.0074945423
-might-0.006276926
-job-0.0059519703
-official-0.0052181394
-fortnite-0.0042386646
-careerarc-0.0041003902
-music-0.003906724
-part-0.0037905544
-hiring-0.0036342812
-latest-0.0035619657
-full-0.0029785363
+found-0.09635209
+trecru-0.09517262
+transponder-0.095171906
+snail-0.09516962
+amazing-0.029119864
+giants-0.028492011
+sea-0.027865114
+encounters-0.027240047
+monsters-0.02723959
+look-0.013866078
+inside-0.011078584
+shots-0.010648029
+exclusive-0.010334809
+straw-0.008769776
+hats-0.0087696025
+candid-0.0072049717
+luffy-0.007203848
+behind-0.005957588
+kami-0.0056390692
+battle-0.0053263106
 
 Top tweet:
-I liked a @YouTube video https://t.co/8zBX6UjXAT Lil Dicky - $ave Dat Money feat. Fetty Wap and Rich Homie Quan (Official Music Video)
+Found a Transponder Snail!
+Battle rages in Upper Yard! Shandians vs. "Kami"!
+https://t.co/DkcYiFsiMb #TreCru https://t.co/wfWeUyWmTH
 
 Entities:
-@YouTube
+#TreCru

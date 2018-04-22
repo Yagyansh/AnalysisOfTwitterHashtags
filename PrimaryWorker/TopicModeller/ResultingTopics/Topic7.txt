@@ -1,30 +1,26 @@
 Top 20 Word - Probability:
-kca-0.1097723
-vote-0.035783138
-blockchain-0.031002095
-favglobalmusicbts-0.015441034
-favmusicalgrouptwentyonepilots-0.015050161
-favbreakoutartistharrystyles-0.013032406
-tweet-0.011972692
-favpinoynewbiejoshua-0.009220632
-per-0.007813001
-airdrop-0.007071779
-bitcoin-0.0070711183
-favpinoynewbieloisa-0.0061528618
-retweet-0.0056569325
-love-0.005655161
-daily-0.0056205764
-reply-0.005290748
-voting-0.005272108
-harry-0.005267047
-cryptocurrency-0.0052320687
-ico-0.0052320636
+trump-0.011359852
+mueller-0.009703981
+mccabe-0.008115368
+rosenstein-0.0080880225
+think-0.006482213
+investigation-0.006474771
+americafirst-0.00583758
+liberals-0.004911579
+comey-0.0048991735
+long-0.00488002
+take-0.004876831
+happy-0.0048697437
+firing-0.0048685656
+wait-0.0048626317
+makeamericagreatagain-0.004861468
+russians-0.0048613986
+wigging-0.004861371
+sweet-0.0048610833
+least-0.0032885761
+liar-0.00326474
 
 Top tweet:
-Remember its one tweet per account per day but unlimited retweets
-Dont forget to add # KCA
-#KCA #FavBreakoutArtistHarryStyles
+@realDonaldTrump Firing someone 2 days from retirement. Sounds corporate American retaliation. I though you were go… https://t.co/UtURX2j9hp
 
 Entities:
-#KCA
-#blockchain

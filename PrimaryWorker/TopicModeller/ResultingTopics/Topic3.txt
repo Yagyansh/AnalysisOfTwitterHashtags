@@ -1,32 +1,29 @@
 Top 20 Word - Probability:
-aldublovewins-0.049199942
-thosfansbts17m-0.022327015
-isupportjeremycorbyn-0.015662026
-bts-0.01563878
-love-0.013975039
-quote-0.011465098
-army-0.008936427
-life-0.0072012357
-follow-0.0065429113
-vote-0.0062150145
-keep-0.0057384637
-back-0.004884503
-time-0.0048139887
-never-0.0047384063
-man-0.0044740075
-jimin-0.004174138
-world-0.003805352
-people-0.0035660197
-happy-0.0035374751
-leave-0.0035171474
+giveaway-0.09792474
+win-0.08187345
+enter-0.033404283
+follow-0.020874968
+entered-0.014872004
+chance-0.0132422745
+retweet-0.009246503
+giftcard-0.006866366
+yet-0.005864819
+card-0.005772056
+smart-0.005723155
+gift-0.005722496
+ends-0.005342063
+sweeps-0.0053416514
+amazon-0.0053416356
+giving-0.0051088943
+prize-0.0049606967
+international-0.004960696
+gaming-0.0049606487
+checked-0.004960637
 
 Top tweet:
-follow everyone who rts this to gain bts stan mutuals 🐵
-turn on my notifications so you can gain more bts mutuals @BTS_twt
+#GIVEAWAY! 💜
+#PRIZE includes: Skin Republic face mask, Osmo heat protector, Cadbury chocolate bunny (cos it’s nearl… https://t.co/nsvZI25mym
 
 Entities:
-#ALDUBLoveWins
-#quote
-@BTS_twt
-#ISupportJeremyCorbyn
-#THOSFansBTS17M
+#win
+#giveaway

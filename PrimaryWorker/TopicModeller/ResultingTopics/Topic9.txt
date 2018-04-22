@@ -1,27 +1,31 @@
 Top 20 Word - Probability:
-love-0.028253153
-jbj-0.025014002
-thosfansbts17m-0.022411725
-meet_jimin-0.018314268
-please-0.008642728
-give-0.0086341
-joyful-0.008221019
-smile-0.008195738
-joyfuls-0.0074399356
-dream-0.007262216
-jimin-0.006926045
-guys-0.006068664
-end-0.00601667
-meet_bts-0.0059764963
-boys-0.0059725298
-time-0.0056069233
-never-0.005420789
-billboard-0.005265116
-voted-0.005213738
-still-0.00516921
+people-0.00900486
+trump-0.0064509395
+college-0.0064301766
+corruption-0.0064281463
+school-0.005263954
+help-0.005258733
+way-0.005190814
+time-0.0051648994
+america-0.005162872
+admissions-0.005147279
+keep-0.005147221
+maybe-0.00514672
+calling-0.0051464355
+office-0.005145432
+white-0.003909671
+work-0.0038839993
+kids-0.003880125
+around-0.0038660213
+hope-0.0038655915
+modi-0.0038655058
 
 Top tweet:
-I truly hope there’ll be good news soon #지지않는_꽃이야_787 meanwhile let’s continue to fight and not give up on them. JBJ deserves better!
+@realDonaldTrump TRUMP CALLING SOMEONE ELSE A LIAR IS LIKE:
+
+OJ CALLING SOMEONE A BAD HUSBAND
+
+CASEY ANTHONY CALLIN… https://t.co/iKTtRuz5lT
 
 Entities:
-#지지않는_꽃이야_787
+@davidhogg111

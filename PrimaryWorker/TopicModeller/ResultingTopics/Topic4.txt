@@ -1,28 +1,33 @@
 Top 20 Word - Probability:
-poshmark-0.06370772
-shopmycloset-0.047789924
-soundcloud-0.04523632
-check-0.03242625
-listen-0.032162625
-share-0.03186957
-loving-0.031236287
-items-0.031235082
-fashion-0.029324235
-closet-0.028687984
-added-0.028059652
-style-0.02195462
-heard-0.011582334
-prod-0.0076756463
-dress-0.005766428
-discovered-0.005765556
-tonkra-0.0051287
-feat-0.004922816
-blue-0.0035125648
-music-0.003389496
+trump-0.01732882
+mccabe-0.016192706
+america-0.007620823
+president-0.007406014
+fbi-0.007343481
+fired-0.0071951672
+people-0.006867046
+maga-0.006722396
+man-0.005168091
+corruption-0.0046338546
+mueller-0.004525872
+american-0.004514226
+think-0.004271212
+john-0.004216654
+coming-0.004016334
+god-0.0038943433
+corrupt-0.003651033
+justice-0.0036164077
+news-0.0035781423
+time-0.003512245
 
 Top tweet:
-Listen to My Vision- Kyra Ilaya Sanders (PROD. BY NINO) by Kyra Ilaya Sanders #np on #SoundCloud https://t.co/XzGncjGEBl
+Former FBI Deputy Director Andrew McCabe fired via the @FoxNews App ❌ Former FBI Deputy Director Anthony McCabe 🔥 &amp;… https://t.co/6CvoVprUvC
 
 Entities:
-#np
-@Poshmarkapp
+#MAGA
+@JohnBrennan
+@RepSwalwell
+@POTUS
+@FoxNews
+@realDonaldTrump
+@MSNBC

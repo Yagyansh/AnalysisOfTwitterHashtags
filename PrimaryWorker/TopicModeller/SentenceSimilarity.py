@@ -61,18 +61,18 @@ N = 0
 # print top_tweets
 # print len(top_tweets)
 
-# def extract_top_tweets():
-for i in range(NUMBER_OF_TOPICS):
-    with open(join(TopicFilesPath,'Topic%d.txt' %(i))) as input_data:
-       temporary_topics.append(input_data.readlines())
+def extract_top_tweets():
+    for i in range(NUMBER_OF_TOPICS):
+        with open(join(TopicFilesPath,'Topic%d.txt' %(i))) as input_data:
+           temporary_topics.append(input_data.readlines())
 
-for i in range(len(temporary_topics)):
-    indexofentities.append(temporary_topics[i].index('Entities:\n'))
+    for i in range(len(temporary_topics)):
+        indexofentities.append(temporary_topics[i].index('Entities:\n'))
 
-for i in range(len(temporary_topics)):
-    array = temporary_topics[i][FIRST_LINE:indexofentities[i]]
-    lala = ''.join(array)
-    top_tweets.append(re.sub('[^ a-zA-Z0-9]', '', lala))
+    for i in range(len(temporary_topics)):
+        array = temporary_topics[i][FIRST_LINE:indexofentities[i]]
+        lala = ''.join(array)
+        top_tweets.append(re.sub('[^ a-zA-Z0-9]', '', lala))
 
 
 
@@ -299,7 +299,7 @@ def similarity(sentence_1, sentence_2, info_content_norm):
 if __name__ == '__main__':
     print 'Started Calculating Sentence Similarity at ' + get_time() + '... ',
     start_timing()
-    # extract_top_tweets()
+    extract_top_tweets()
     # print similarity(top_tweets[10],top_tweets[11],True)
     filehandler = open('TopTweetSimilarities.txt', 'a')
     # similarity = []

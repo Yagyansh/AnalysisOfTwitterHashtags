@@ -1,29 +1,29 @@
 Top 20 Word - Probability:
-onedirectionbestfans-0.063506566
-marchmadness-0.048137352
-win-0.013279796
-twitter-0.012226341
-umbc-0.012221482
-love-0.009857448
-night-0.007976131
-game-0.0070019
-upset-0.006645077
-time-0.0064594797
-voting-0.0062987036
-seed-0.0062970626
-team-0.0061298287
-virginia-0.0059480416
-round-0.0059475717
-first-0.0057595125
-bracket-0.0049017947
-vote-0.0048322375
-history-0.004549989
-even-0.004305225
+marchmadness-0.14648382
+umbc-0.031657103
+win-0.020776369
+seed-0.019007415
+round-0.01823313
+upset-0.015359241
+bracket-0.015059996
+virginia-0.014602493
+twitter-0.01237222
+night-0.01032363
+beat-0.009772057
+game-0.008994764
+account-0.008243456
+time-0.008162329
+history-0.007911328
+historic-0.0074336953
+first-0.007310812
+retrievers-0.007092953
+second-0.0070818495
+team-0.0060626594
 
 Top tweet:
-MAKING HISTORY: University of Maryland, Baltimore County (UMBC) becomes the first 16-seed in #MarchMadness history… https://t.co/3VF8a4ROdw
+#MarchMadness GAMEDAY ROUND 2!
+
+VOLS AND RAMBLERS. DEACON BARNES AND SISTER JEAN. SWEET SIXTEEN ON THE LINE.… https://t.co/uH7pN3Kzsr
 
 Entities:
-@UMBCAthletics
-#OneDirectionBestFans
 #MarchMadness

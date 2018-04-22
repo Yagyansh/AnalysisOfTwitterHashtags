@@ -8,6 +8,7 @@ from pytagcloud.lang.counter import get_tag_counts
 from ExtraUseFiles.Constants import *
 from ExtraUseFiles.OS_Utility import get_dir
 from ExtraUseFiles.DateTimeController import start_timing, stop_timing, get_today, get_date_string, get_time
+from ExtraUseFiles.TuningParameters import NUMBER_OF_TOPICS
 
 TODAY = get_today()
 TODAY_STRING = get_date_string(TODAY)
@@ -70,7 +71,7 @@ def execute():
     print 'Started Word Cloud Generation at ' + get_time() + '...\n',
     start_timing()
 
-    hot_topics = [1,2,3,4,5,6,7, 8,9,10,11,12,13,14,15,16, 17]
+    hot_topics = [i for i in range(0,NUMBER_OF_TOPICS)]
     for topic in hot_topics:
         create_wordcloud(topic)
     print 'Word Cloud Successfully Created'

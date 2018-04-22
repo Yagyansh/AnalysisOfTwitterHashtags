@@ -1,27 +1,30 @@
 Top 20 Word - Probability:
-ifsocialmediadisappeared-0.087243415
-people-0.020173527
-iheartawards-0.013661454
-bestfanarmy-0.012612121
-social-0.011228109
-world-0.008562201
-better-0.0074943164
-actually-0.007216699
-time-0.007056787
-life-0.0070503317
-media-0.005901103
-never-0.0053987587
-everyone-0.0052547487
-stage-0.0051598195
-pop-0.0049719783
-face-0.0048408126
-place-0.0048039244
-ahh-0.004669171
-friends-0.0044667665
-way-0.004438729
+fanboost-0.14563385
+felixrosenqvist-0.14242265
+close-0.14002961
+getting-0.13991354
+race-0.1392089
+passioneer-0.13920704
+three-0.016421005
+thre-0.0121400785
+thr-0.010712943
+vote-0.0066332477
+puntadelesteeprix-0.005358469
+give-0.0047115376
+show-0.004317024
+support-0.004287904
+passioneering-0.004287665
+giving-0.0010817127
+begins-0.0010789834
+stay-0.0010755496
+tuned-0.0010755279
+favourite-0.001075264
 
 Top tweet:
-#IfSocialMediaDisappeared More people would be happier with their lives due to low comparison rates and cyber bully… https://t.co/O2Ihv6Zuzf
+#Fanboost #JoseMariaLopez #VamosPechito 💪
+I'm voting for the #FANBOOST!  Vote for your favourite driver here: https://t.co/jVBqOksFxX
 
 Entities:
-#IfSocialMediaDisappeared
+#FelixRosenqvist
+#FANBOOST
+#passioneer

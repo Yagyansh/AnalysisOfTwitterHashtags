@@ -61,18 +61,19 @@ def execute():
     start_timing()
 
     documents = get_documents()
-    print documents
+    #print documents
     tokenized_documents = clean(documents)
-    print tokenized_documents
+    #print tokenized_documents
 
     dictionary = corpora.Dictionary([doc for doc in tokenized_documents])
     #print dictionary
     dictionary.compactify()  # Assign new word ids to all words, shrinking gaps.
-    print dictionary
+    #print dictionary
     dictionary.save(DICTIONARY_PATH)
 
     # Convert document into the bag-of-words (BoW) format = list of (token_id, token_count).
     corpus = [dictionary.doc2bow(doc) for doc in tokenized_documents]
+    #print [[(dictionary[id], freq) for id, freq in cp] for cp in corpus[:1]]
 
     # Serialize corpus with offset metadata, allows to use direct indexes after loading.
     corpora.MmCorpus.serialize(CORPUS_PATH, corpus)
