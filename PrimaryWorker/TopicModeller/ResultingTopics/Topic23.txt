@@ -1,0 +1,29 @@
+Top 20 Word - Probability:
+kca-0.14478129
+vote-0.047611676
+favmusicalgrouptwentyonepilots-0.02146643
+favbreakoutartistharrystyles-0.018837158
+favglobalmusicbts-0.017789062
+tweet-0.015346649
+favpinoynewbiejoshua-0.013024789
+favpinoynewbieloisa-0.008763382
+per-0.008228779
+love-0.0076435646
+harry-0.0075919386
+reply-0.007191699
+retweet-0.00716451
+favmusicalgroupfifthharmony-0.0068941745
+voting-0.0067765997
+daily-0.006658162
+first-0.0061975555
+favbreakoutartistcamilacabello-0.0061299964
+keep-0.0058820215
+win-0.0058392985
+
+Top tweet:
+Hanggang March TWENTY FOUR pa daw po ang voting. So laban for last EIGHT days of voting.
+
+ #KCA #FavPinoyNewbieLoisa
+
+Entities:
+#KCA

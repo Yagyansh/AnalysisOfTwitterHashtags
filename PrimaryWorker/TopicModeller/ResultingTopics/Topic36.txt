@@ -1,0 +1,26 @@
+Top 20 Word - Probability:
+isupportjeremycorbyn-0.06077675
+people-0.007298828
+right-0.006591454
+democracy-0.0054573347
+many-0.0048202337
+life-0.0048189545
+tories-0.004817043
+war-0.0048163696
+believe-0.0048159347
+history-0.004815402
+well-0.0047876616
+reasons-0.0047854814
+trust-0.004365739
+children-0.004320084
+getting-0.0039883293
+support-0.0032227638
+first-0.0032217775
+jeremy-0.0032209517
+corbyn-0.003220352
+tax-0.0032185097
+
+Top tweet:
+#ISupportJeremyCorbyn He wants true democracy, not elitist democracy. A cross on a ballot paper once every 5 years… https://t.co/i56uTLrzIX
+
+Entities:

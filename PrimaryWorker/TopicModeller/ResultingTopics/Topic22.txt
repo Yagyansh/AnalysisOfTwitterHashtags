@@ -1,0 +1,32 @@
+Top 20 Word - Probability:
+thosfansbts17m-0.04700759
+bts-0.032587364
+follow-0.019700335
+army-0.017404553
+mutuals-0.012067551
+vote-0.011078318
+back-0.010715586
+sure-0.009748191
+gain-0.009266106
+jimin-0.0090538785
+love-0.008406962
+kca-0.008198158
+stan-0.008135585
+rts-0.0076061967
+leave-0.0069948384
+keep-0.006874534
+everyone-0.0067152674
+favglobalmusicbts-0.006649889
+reply-0.006086243
+jungkook-0.006004415
+
+Top tweet:
+Kpoppies:BTS cant sing.
+News: @BTS_twt break record again!
+Kpoppies:BTS cant sing.
+News:BTS rise up on chart!
+Kpopp… https://t.co/WXvFzSRA99
+
+Entities:
+@BTS_twt
+#THOSFansBTS17M

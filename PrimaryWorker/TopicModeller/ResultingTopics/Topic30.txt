@@ -1,0 +1,26 @@
+Top 20 Word - Probability:
+nowplaying-0.055580974
+love-0.008033067
+college-0.00792226
+listen-0.0070728455
+tune-0.0057692016
+buy-0.005650907
+white-0.0052891388
+life-0.0052827275
+radio-0.004363561
+original-0.004361717
+holy-0.003971719
+right-0.003971423
+guys-0.0039700205
+year-0.0039605675
+san-0.0029174532
+mix-0.0029170027
+children-0.002915217
+clean-0.0028996354
+music-0.0027664588
+please-0.0026781822
+
+Top tweet:
+#NowPlaying Holy, Holy, Holy by Bishop T.D. Jakes Presents - Woman Thou Art Loosed Worship 2002 on #WNIAGospelRadio… https://t.co/UR0h1gUsnW
+
+Entities:

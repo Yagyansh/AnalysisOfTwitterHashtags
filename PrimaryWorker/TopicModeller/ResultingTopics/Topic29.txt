@@ -1,0 +1,27 @@
+Top 20 Word - Probability:
+aldublovewins-0.11933281
+love-0.02129856
+quote-0.0133243725
+happystpatricksday-0.01198823
+life-0.011478694
+never-0.0052942913
+happy-0.0050388547
+man-0.004906136
+people-0.004866099
+heart-0.0046686986
+time-0.0045836936
+give-0.004554899
+aldub-0.00426564
+happiness-0.004096801
+change-0.003946368
+world-0.0038263814
+right-0.0038169317
+find-0.003798632
+maine-0.0037326915
+every-0.003674653
+
+Top tweet:
+“To speak and to speak well, are two things. A fool may talk, but a wise man speaks.” ~Ben Jonson #quote
+
+Entities:
+#ALDUBLoveWins

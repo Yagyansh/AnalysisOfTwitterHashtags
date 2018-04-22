@@ -1,0 +1,33 @@
+Top 20 Word - Probability:
+love-0.04334526
+meet_jimin-0.018546307
+deserve-0.010315491
+thosfansbts17m-0.00943922
+follow-0.008241556
+proud-0.007981063
+never-0.0074486653
+vote-0.0074082827
+listen-0.0066171787
+please-0.0060717175
+voted-0.006048264
+billboard-0.0060395855
+jimin-0.005584565
+act-0.00544705
+twitter-0.005224523
+meet_bts-0.004948777
+happy-0.004787136
+teambts-0.004618216
+awards-0.0045179967
+baby-0.004504421
+
+Top tweet:
+Universiti Malaysia Sabah, Sabah, Malaysia💜
+
+--
+In UMS, we strive reach the peak of victory.
+For @BTS_twt ,who insp… https://t.co/Ga313gwah9
+
+Entities:
+@UMBCAthletics
+@Camila_Cabello
+@Louis_Tomlinson

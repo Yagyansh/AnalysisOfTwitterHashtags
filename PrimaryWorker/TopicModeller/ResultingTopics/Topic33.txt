@@ -1,0 +1,28 @@
+Top 20 Word - Probability:
+isupportjeremycorbyn-0.11005499
+man-0.010589136
+support-0.009535953
+corbyn-0.008419916
+keep-0.007422369
+labour-0.0074212635
+leader-0.00742098
+retired-0.0074208044
+hope-0.0063628573
+jeremy-0.0054701474
+first-0.005394023
+integrity-0.005304627
+party-0.0053038984
+people-0.0053038904
+reason-0.004456237
+years-0.004338984
+country-0.0042469236
+right-0.004246387
+nhs-0.0042463234
+strength-0.004246135
+
+Top tweet:
+#ISupportJeremyCorbyn
+YouGov Poll says Theresa May handled the response to the Russian attack a lot better than Cor… https://t.co/OxV6vmSsTy
+
+Entities:
+#ISupportJeremyCorbyn

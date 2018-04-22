@@ -1,0 +1,28 @@
+Top 20 Word - Probability:
+stpatricksday-0.10656549
+happy-0.03787376
+holiday-0.023288814
+green-0.023179831
+irish-0.017158065
+patrick-0.0131279975
+far-0.011166843
+celebrates-0.011003991
+color-0.011001548
+concerned-0.010564232
+wishing-0.008887635
+luck-0.007839791
+gold-0.0073124375
+celebrate-0.0060778656
+everyone-0.005563013
+pot-0.005535888
+parade-0.004672881
+ireland-0.0041983738
+fun-0.004105002
+joy-0.003524987
+
+Top tweet:
+Happy #StPatricksDay 
+
+Samson asks you - Please visit your local animal shelter &amp; find your 🍀Lucky Charm🍀 furbabies… https://t.co/QJsSnsMwA8
+
+Entities:

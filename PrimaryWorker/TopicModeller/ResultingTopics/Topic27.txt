@@ -1,0 +1,30 @@
+Top 20 Word - Probability:
+poshmark-0.084560126
+shopmycloset-0.06342476
+share-0.042280927
+items-0.041439205
+loving-0.041438952
+check-0.0414385
+fashion-0.038903367
+closet-0.03805907
+added-0.037214335
+style-0.02875747
+code-0.0126765855
+codes-0.010158444
+discovered-0.0076209917
+dress-0.0076205046
+invite-0.0067771957
+follow-0.005178371
+ios-0.0050856257
+fortnite-0.005053475
+sweater-0.0033932764
+sale-0.00339318
+
+Top tweet:
+@FortniteGame Im giving away #Fortnite iOS Invite Event codes to 3 lucky winners! 
+
+- Must Be Following Me.
+- Retwe… https://t.co/tgmLhgoKN9
+
+Entities:
+@Poshmarkapp

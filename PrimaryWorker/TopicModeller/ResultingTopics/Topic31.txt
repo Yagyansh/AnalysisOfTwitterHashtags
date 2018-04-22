@@ -1,0 +1,31 @@
+Top 20 Word - Probability:
+indiawants_avrecording_incourts-0.11649571
+proceedings-0.08214371
+court-0.034105163
+video-0.031601194
+audio-0.03057995
+recording-0.021651132
+justice-0.012959237
+proceeding-0.011703014
+courts-0.010955002
+corruption-0.0109383715
+india-0.010768358
+people-0.009982009
+judges-0.00846773
+judiciary-0.008213707
+system-0.0082057975
+right-0.0074126692
+cases-0.0072226473
+judge-0.0072017405
+judicial-0.006725182
+country-0.0065401434
+
+Top tweet:
+#IndiaWants_AVRecording_InCourts
+Proceedings
+Akhir kyu common man ko Justice nhii Diya jata...
+Aur dusri aur rich p… https://t.co/wjovu1on5o
+
+Entities:
+@SatlokChannel
+#IndiaWants_AVRecording_InCourts

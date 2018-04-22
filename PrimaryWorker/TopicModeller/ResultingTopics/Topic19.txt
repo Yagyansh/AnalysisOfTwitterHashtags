@@ -1,0 +1,29 @@
+Top 20 Word - Probability:
+onedirectionbestfans-0.18281646
+love-0.030889556
+voting-0.019337775
+vote-0.011905751
+louisbestfans-0.011611475
+direction-0.01125067
+world-0.009787789
+louis-0.009119703
+win-0.008802619
+king-0.008361223
+deserve-0.007642902
+tweet-0.007320754
+fans-0.0072646714
+backing-0.007164698
+boys-0.0071052746
+still-0.0063481457
+many-0.0061513497
+think-0.0061224806
+hashtag-0.0061172186
+japanese-0.0061051883
+
+Top tweet:
+#OneDirectionBestFans
+YOU CAN'T JUST VOTE THE FIRST FEW DAYS OF VOTING THEN STOP 
+WE STARTED STRONG AND WE END STRONGER DON'T JUST SLOW DOWN
+
+Entities:
+#OneDirectionBestFans

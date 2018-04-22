@@ -1,0 +1,27 @@
+Top 20 Word - Probability:
+jbj-0.037663296
+love-0.017234342
+joyful-0.012365333
+please-0.012295843
+give-0.01127863
+joyfuls-0.011188701
+dream-0.010543817
+smile-0.0093297465
+end-0.008297614
+time-0.0076041594
+boys-0.0075769457
+forever-0.0068317303
+never-0.006699193
+hyunbin-0.0064792694
+still-0.0059370464
+longer-0.005891478
+together-0.0058910227
+well-0.005825138
+keep-0.005810419
+guys-0.005770032
+
+Top tweet:
+To support JBJ’s contract extension #지지않는_꽃이야_787 please put hashtag between sentences instead of elsewhere for better trending effect!!
+
+Entities:
+#지지않는_꽃이야_787

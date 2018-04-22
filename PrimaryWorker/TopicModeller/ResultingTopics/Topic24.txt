@@ -1,0 +1,26 @@
+Top 20 Word - Probability:
+nowplaying-0.08566358
+listenlive-0.024577769
+radio-0.0086880755
+music-0.0072439224
+song-0.0072430447
+swalwell-0.0062501817
+hits-0.005365772
+knows-0.00474364
+time-0.0043554585
+girl-0.0043531223
+cubevenue-0.004353054
+schiff-0.0043503894
+blah-0.004331508
+alright-0.0042573707
+start-0.004154929
+party-0.003965964
+eric-0.003678543
+rock-0.0036169451
+playing-0.0034711899
+bye-0.0033045094
+
+Top tweet:
+#nowplaying on Voice FM Galway Girl - Ed Sheeran, Fashion - DAVID BOWIE, Leave a Light On (Radio Edit) - Tom Wal...https://t.co/YyQ5pVY9ZJ
+
+Entities:

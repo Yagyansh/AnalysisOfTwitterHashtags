@@ -1,0 +1,27 @@
+Top 20 Word - Probability:
+win-0.06854031
+follow-0.034405872
+enter-0.025447315
+chance-0.023795018
+giveaway-0.016971378
+competition-0.014847988
+freebiefriday-0.011314149
+retweet-0.010099182
+time-0.0093592005
+simply-0.008488308
+ends-0.0077810683
+bundle-0.0056620357
+spring-0.0049560936
+gaming-0.004926668
+worth-0.0048469496
+scancomp-0.0042486964
+prize-0.0042483653
+friend-0.0039193677
+stpatricksday-0.00363784
+monitor-0.0035421676
+
+Top tweet:
+Enter our #giveaway! Follow us &amp; retweet for a chance to #WIN a Set of Heritage Orchard Mugs.
+One #lucky winner wil… https://t.co/qGib74AQj3
+
+Entities:

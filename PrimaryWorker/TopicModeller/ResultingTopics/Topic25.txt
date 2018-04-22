@@ -1,0 +1,31 @@
+Top 20 Word - Probability:
+exo-0.2056548
+bangkok-0.06948213
+elyxion-0.0426975
+elyxioninbkk-0.03744616
+eℓyxion-0.026919287
+preview-0.026268288
+planet-0.01948754
+fancam-0.018917441
+sehun-0.017351516
+chanyeol-0.015499131
+exol-0.013509985
+baekhyun-0.010808859
+xiumin-0.009722318
+kai-0.008908905
+love-0.00750717
+chen-0.00723934
+kyungsoo-0.007006258
+focus-0.0067097223
+suho-0.0064058104
+admin-0.005872142
+
+Top tweet:
+not only would it be my first ever exo album but also my first ever album in general hdkskdkkdks
+
+#EXO #엑소 #EXOL @weareoneEXO
+
+Entities:
+#엑소
+@weareoneEXO
+#EXO

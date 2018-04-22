@@ -1,0 +1,28 @@
+Top 20 Word - Probability:
+code-0.011159025
+fortnite-0.008947947
+mccabe-0.0072788484
+trump-0.0063987626
+first-0.0062045003
+please-0.0059268414
+sure-0.005302181
+work-0.004897831
+come-0.0047565796
+give-0.0045466507
+play-0.004434355
+iphone-0.004419873
+people-0.004032503
+way-0.003971631
+follow-0.0039288234
+mobile-0.0037423493
+plz-0.0037421617
+fix-0.0037415659
+ios-0.0037409652
+send-0.0037404136
+
+Top tweet:
+@JohnBrennan @GovHowardDean Trump learned from Roy Cohn. Roy Cohn assisted both Joe McCarthy &amp; Richard Nixon. 
+Wond… https://t.co/kRWrYQ57ey
+
+Entities:
+@FortniteGame
